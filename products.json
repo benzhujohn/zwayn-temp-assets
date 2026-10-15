@@ -1,0 +1,4728 @@
+[
+ {
+  "slug": "es-box49",
+  "title": "ES-BOX49 Series Wall-Mounted Home Battery 5.12-17.4 kWh",
+  "cat": "wall-mounted-battery",
+  "parent": "residential-energy-storage",
+  "bullets": [
+   "Easy and flexible installation, saving time and effort.",
+   "1C continuous charge and discharge for high performance.",
+   "10-year warranty for long-term reliability.",
+   "Safe low-voltage connection for home energy storage.",
+   "Supports up to 64 modules in parallel.",
+   "Superior LiFePO4 safety and stability.",
+   "Original BYD Grade-A LFP cells, automotive-grade quality.",
+   "Smart BMS with real-time multi-layer safety protection."
+  ],
+  "sections": [
+   {
+    "name": "Specifications",
+    "rows": [
+     [
+      "Product Model",
+      "ES-BOX49 · ES-BOX49 MAX"
+     ],
+     [
+      "Nominal Energy",
+      "5.12kWh · 17.4kWh"
+     ],
+     [
+      "Nominal Voltage",
+      "51.2V"
+     ],
+     [
+      "Nominal Capacity",
+      "100Ah · 340Ah"
+     ],
+     [
+      "Cell Type",
+      "LFP"
+     ],
+     [
+      "Standard Charge Voltage",
+      "56.8V"
+     ],
+     [
+      "Max. Discharge Current",
+      "100A · 200A"
+     ],
+     [
+      "Discharge Cut-off Voltage",
+      "44.8V"
+     ],
+     [
+      "Parallel Function",
+      "Parallels: Max. 16, Max.33, Max.64 (Optional)"
+     ],
+     [
+      "Communication Interface",
+      "USB, RS485, CAN"
+     ],
+     [
+      "Cycle Life",
+      "28000 Cycles (25°C±2'C, 0.5C, 90%DOD@65%EOL) · ≥10000 Cycles (25°C±2'C, 0.35C, 90%DOD@65%EOL)"
+     ],
+     [
+      "Charge Temperature Range",
+      "0-55℃"
+     ],
+     [
+      "Discharge Temperature Range",
+      "-20-55°C"
+     ],
+     [
+      "Certification",
+      "Pack: CEI 0-21/CE/IEC 62619/UL1973 by Intertek/MSDS/UN38.3 / Cell: UL 1642/IEC 62619/CE/EMC/ROHS/MSDS/UN38.3"
+     ],
+     [
+      "Dimension",
+      "620*480*180mm(Excluding bracket) · 1000*680*300mm(Caster)"
+     ],
+     [
+      "Net Weight",
+      "=52Kg · =145Kg"
+     ],
+     [
+      "Installation Method",
+      "Wall Mounted · Floor Standing"
+     ],
+     [
+      "Display",
+      "Circular touch screen/3.2\" LCD Touch Screen · 4.3\" LCD Touch Screen"
+     ],
+     [
+      "Warranty",
+      "10 years warranty, 15 years design life"
+     ],
+     [
+      "Energy Throughput™",
+      "22MWh · 76MWh"
+     ],
+     [
+      "Optional",
+      "WiFi (Built-in WiFi antenna), Bluetooth, Fire Suppression module, Circuit Breaker (Built-in WiFi antenna)"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "es-box12f",
+  "title": "ES-BOX12F Series IP65 Wall-Mounted Battery 5.12-16.08 kWh",
+  "cat": "wall-mounted-battery",
+  "parent": "residential-energy-storage",
+  "bullets": [
+   "Flexible installation, saving time and effort.",
+   "1C/1C continuous charge and discharge.",
+   "10-year standard warranty.",
+   "IP65 protection for reliable outdoor installation.",
+   "Supports up to 64 modules in parallel.",
+   "Battery equalization for longer battery life.",
+   "All-round safety with short-circuit and surge protection.",
+   "-20°C to 55°C operating temperature with automatic self-heating."
+  ],
+  "sections": [
+   {
+    "name": "Specifications",
+    "rows": [
+     [
+      "Product Model",
+      "ES-BOX12F · ES-BOX12F PLUS · ES-BOX12F MAX · ES-BOX12F MAX+"
+     ],
+     [
+      "Nominal Energy",
+      "5.12kWh · 10.24kWh · 14.34kWh · 16.08kWh"
+     ],
+     [
+      "Nominal Voltage",
+      "51.2V"
+     ],
+     [
+      "Nominal Capacity",
+      "100Ah · 200Ah · 280Ah · 314Ah"
+     ],
+     [
+      "Cell Type",
+      "LFP"
+     ],
+     [
+      "Standard Charge Voltage",
+      "56.8V"
+     ],
+     [
+      "Max.Charge/Discharge Current",
+      "100A · 150A · 200A · 200A"
+     ],
+     [
+      "Discharge Cut-Off Voltage",
+      "44.8V"
+     ],
+     [
+      "Parallel Function",
+      "Parallels: Max. 16, Max.33, Max.64 (Optional)"
+     ],
+     [
+      "Communication Interface",
+      "RS485/RS232/CAN"
+     ],
+     [
+      "Cycle Life",
+      ">8000 Cycles(25°C±2ºC, 0.5C, 90%DOD@65%EOL) · ≥10000 Cycles (25°C±2ºC, 0.35C, 90%DOD@65%EOL)"
+     ],
+     [
+      "Charge Temperature Range",
+      "0-55℃"
+     ],
+     [
+      "Discharge Temperature Range",
+      "-20-55°C"
+     ],
+     [
+      "Certification",
+      "Pack: CEI 0-21/CE/IEC 62619/UL1973 by Intertek/MSDS/UN38.3 / Cell: UL1642/IEC 62619/CE/EMC/ROHS/MSDS/UN38.3"
+     ],
+     [
+      "Dimension",
+      "480*600*180mm / (Excluding Wall-Mounted Brackets) · 480*650*245mm / (Excluding Wall-Mounted Brackets) · 490*840*250mm / (Excluding Wheels) · 490*840*250mm / (Excluding Wheels)"
+     ],
+     [
+      "Net Weight",
+      "52Kg · 98Kg · 126Kg · 128Kg"
+     ],
+     [
+      "Installation Method",
+      "Wall-Mounted/Floor Standing"
+     ],
+     [
+      "Warranty",
+      "10 years warranty, 15 years design life"
+     ],
+     [
+      "Energy Throughput",
+      "22MWh · 44MWh · 62MWh · 70MWh"
+     ],
+     [
+      "Display",
+      "LED Display"
+     ],
+     [
+      "Include",
+      "Circuit Breaker"
+     ],
+     [
+      "Optional",
+      "Automatic Heating,Fire Extinguishing Module, WiFi Remote Monitoring"
+     ],
+     [
+      "Protection Grade",
+      "IP20 / IP65(Optional)"
+     ],
+     [
+      "Product Model",
+      "ES-BOX36 · ES-BOX36 PLUS · ES-BOX36 MAX · ES-BOX36 MAX+ / ES-BOX36F MAX+"
+     ],
+     [
+      "Nominal Energy",
+      "5.12kWh · 10.24kWh · 14.34kWh · 16.08kWh"
+     ],
+     [
+      "Nominal Voltage",
+      "51.2V"
+     ],
+     [
+      "Nominal Capacity",
+      "100Ah · 200Ah · 280Ah · 314Ah"
+     ],
+     [
+      "Cell Type",
+      "LFP"
+     ],
+     [
+      "Standard Charge Voltage",
+      "56.8V"
+     ],
+     [
+      "Max.Charge/Discharge Current",
+      "100A · 150A · 200A · 200A"
+     ],
+     [
+      "Discharge Cut-Off Voltage",
+      "44.8V"
+     ],
+     [
+      "Parallel Function",
+      "Parallels: Max.16, Max.33, Max.64 (Optional)"
+     ],
+     [
+      "Communication Interface",
+      "RS485/CAN/USB"
+     ],
+     [
+      "Cycle Life",
+      ">8000 Cycles(25°C±2°C, 0.5C, 90%DOD@65%EOL) · ≥10000 Cycles (25°C±2°C, 0.35C, 90%DOD@65%EOL)"
+     ],
+     [
+      "Charge Temperature Range",
+      "0~55°C"
+     ],
+     [
+      "Discharge Temperature Range",
+      "-20-55℃"
+     ],
+     [
+      "Certification",
+      "Pack: CEI 0-21/CE/IEC 62619/UL1973 by Intertek/MSDS/UN38.3 / Cell: UL1642/IEC 62619/CE/EMC/ROHS/MSDS/UN38.3"
+     ],
+     [
+      "Dimension",
+      "450*620*160mm / (Excluding Wal-Mounted Brackets) · 480*650*245mm / (Excluding Wall-Mounted Brackets) · 460*880*245mm / (Excluding Wheels) · 460*880*245mm / (Excluding Wheels)"
+     ],
+     [
+      "Net Weight",
+      "51Kg · 92Kg · 122Kg · 123Kg"
+     ],
+     [
+      "Installation Method",
+      "Wall-Mounted/Floor Standing"
+     ],
+     [
+      "Warranty",
+      "10 years warranty. 15 years design life"
+     ],
+     [
+      "Energy Throughput\"",
+      "22MWh · 44MWh · 62MWh · 70MWh"
+     ],
+     [
+      "Display",
+      "RGB LED Light/3.2\" LCD Touch Screen · RGB LED Light/4.3\" LCD Touch Screen"
+     ],
+     [
+      "Protection Grade",
+      "IP20 · IP20/IP65(Optional)"
+     ],
+     [
+      "Optional",
+      "Circuit Breaker,WIFI Remote Monitoring"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "es-box34",
+  "title": "ES-BOX34 Series Wall-Mounted Battery 5.12-16.08 kWh",
+  "cat": "wall-mounted-battery",
+  "parent": "residential-energy-storage",
+  "bullets": [
+   "Flexible installation, saving time and effort.",
+   "1C/1C continuous charge and discharge.",
+   "10-year standard warranty.",
+   "WiFi/Bluetooth remote monitoring (optional).",
+   "Supports up to 64 modules in parallel.",
+   "Cloud management with remote OTA updates.",
+   "Superior LiFePO4 safety and reliability.",
+   "Compatible with multiple inverter brands."
+  ],
+  "sections": [
+   {
+    "name": "Specifications",
+    "rows": [
+     [
+      "Product Model",
+      "ES-BOX34 · ES-BOX34 PLUS · ES-BOX34 MAX · ES-BOX34 MAX+"
+     ],
+     [
+      "Nominal Energy",
+      "5.12kWh · 10.24kWh · 14.34kWh · 16.08kWh"
+     ],
+     [
+      "Nominal Voltage",
+      "51.2V"
+     ],
+     [
+      "Nominal Capacity",
+      "100Ah · 200Ah · 280Ah · 314Ah"
+     ],
+     [
+      "Cell Type",
+      "LFP"
+     ],
+     [
+      "Standard Charge Voltage",
+      "56.8V"
+     ],
+     [
+      "Max.Charge/Discharge Current",
+      "100A · 150A · 200A"
+     ],
+     [
+      "Discharge Cut-Off Voltage",
+      "44.8V"
+     ],
+     [
+      "Parallel Function",
+      "Parallels: Max. 16, Max.33, Max.64 (Optional)"
+     ],
+     [
+      "Communication Interface",
+      "RS485/CAN/USB"
+     ],
+     [
+      "Cycle Life",
+      "≥8000 Cycles (25℃±2℃, 0.5C, 90%DOD@65%EOL) · ≥10000 Cycles (25°C±2°C, 0.35C, 90%DOD@65%EOL)"
+     ],
+     [
+      "Charge Temperature Range",
+      "0-55°C"
+     ],
+     [
+      "Discharge Temperature Range",
+      "-20~55°C"
+     ],
+     [
+      "Certification",
+      "Pack: CEI 0-21/CE/IEC 62619/UL1973 by Intertek/MSDS/UN38.3 / Cell: UL1642/IEC 62619/CE/EMC/ROHS/MSDS/UN38.3"
+     ],
+     [
+      "Dimension",
+      "480*6DD*165mm / (Encuding mounting ears and support fout) · 480*650*245mm / (Excluding wal mount brackets) · 490*840*250mm / (Excluding Wheels)"
+     ],
+     [
+      "Net Weight",
+      "52Kg · 96Kg · 122Kg"
+     ],
+     [
+      "Installation Method",
+      "Wall Mounted/Floor Standing"
+     ],
+     [
+      "Warranty",
+      "10 years warranty, 15 years design life"
+     ],
+     [
+      "Energy Throughput \"!",
+      "22MWh · 44MWh · 62MWh · 70MWh"
+     ],
+     [
+      "Display",
+      "3.2\" LCD Touch Screen · 4.3\" LCD Touch Screen"
+     ],
+     [
+      "Optional",
+      "Circuit Breaker, WiFi Remote Monitoring"
+     ],
+     [
+      "Protection Grade",
+      "IP20"
+     ],
+     [
+      "Product Model",
+      "ES-BOX36 · ES-BOX36 PLUS · ES-BOX36 MAX · ES-BOX36 MAX+ / ES-BOX36F MAX+"
+     ],
+     [
+      "Nominal Energy",
+      "5.12kWh · 10.24kWh · 14.34kWh · 16.08kWh"
+     ],
+     [
+      "Nominal Voltage",
+      "51.2V"
+     ],
+     [
+      "Nominal Capacity",
+      "100Ah · 200Ah · 280Ah · 314Ah"
+     ],
+     [
+      "Cell Type",
+      "LFP"
+     ],
+     [
+      "Standard Charge Voltage",
+      "56.8V"
+     ],
+     [
+      "Max.Charge/Discharge Current",
+      "100A · 150A · 200A · 200A"
+     ],
+     [
+      "Discharge Cut-Off Voltage",
+      "44.8V"
+     ],
+     [
+      "Parallel Function",
+      "Parallels: Max.16, Max.33, Max.64 (Optional)"
+     ],
+     [
+      "Communication Interface",
+      "RS485/CAN/USB"
+     ],
+     [
+      "Cycle Life",
+      ">8000 Cycles(25°C±2°C, 0.5C, 90%DOD@65%EOL) · ≥10000 Cycles (25°C±2°C, 0.35C, 90%DOD@65%EOL)"
+     ],
+     [
+      "Charge Temperature Range",
+      "0~55°C"
+     ],
+     [
+      "Discharge Temperature Range",
+      "-20-55℃"
+     ],
+     [
+      "Certification",
+      "Pack: CEI 0-21/CE/IEC 62619/UL1973 by Intertek/MSDS/UN38.3 / Cell: UL1642/IEC 62619/CE/EMC/ROHS/MSDS/UN38.3"
+     ],
+     [
+      "Dimension",
+      "450*620*160mm / (Excluding Wal-Mounted Brackets) · 480*650*245mm / (Excluding Wall-Mounted Brackets) · 460*880*245mm / (Excluding Wheels) · 460*880*245mm / (Excluding Wheels)"
+     ],
+     [
+      "Net Weight",
+      "51Kg · 92Kg · 122Kg · 123Kg"
+     ],
+     [
+      "Installation Method",
+      "Wall-Mounted/Floor Standing"
+     ],
+     [
+      "Warranty",
+      "10 years warranty. 15 years design life"
+     ],
+     [
+      "Energy Throughput\"",
+      "22MWh · 44MWh · 62MWh · 70MWh"
+     ],
+     [
+      "Display",
+      "RGB LED Light/3.2\" LCD Touch Screen · RGB LED Light/4.3\" LCD Touch Screen"
+     ],
+     [
+      "Protection Grade",
+      "IP20 · IP20/IP65(Optional)"
+     ],
+     [
+      "Optional",
+      "Circuit Breaker,WIFI Remote Monitoring"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "es-box36",
+  "title": "ES-BOX36 Series Wall-Mounted Battery 5.12-16.08 kWh",
+  "cat": "wall-mounted-battery",
+  "parent": "residential-energy-storage",
+  "bullets": [
+   "Flexible installation, saving time and effort.",
+   "1C/1C continuous charge and discharge.",
+   "10-year standard warranty.",
+   "WiFi/Bluetooth remote monitoring (optional).",
+   "Supports up to 64 modules in parallel.",
+   "Cloud management with remote OTA updates.",
+   "Superior LiFePO4 safety and performance.",
+   "Compatible with multiple inverter brands."
+  ],
+  "sections": [
+   {
+    "name": "Specifications",
+    "rows": [
+     [
+      "Product Model",
+      "ES-BOX36 · ES-BOX36 PLUS · ES-BOX36 MAX · ES-BOX36 MAX+ / ES-BOX36F MAX+"
+     ],
+     [
+      "Nominal Energy",
+      "5.12kWh · 10.24kWh · 14.34kWh · 16.08kWh"
+     ],
+     [
+      "Nominal Voltage",
+      "51.2V"
+     ],
+     [
+      "Nominal Capacity",
+      "100Ah · 200Ah · 280Ah · 314Ah"
+     ],
+     [
+      "Cell Type",
+      "LFP"
+     ],
+     [
+      "Standard Charge Voltage",
+      "56.8V"
+     ],
+     [
+      "Max.Charge/Discharge Current",
+      "100A · 150A · 200A · 200A"
+     ],
+     [
+      "Discharge Cut-Off Voltage",
+      "44.8V"
+     ],
+     [
+      "Parallel Function",
+      "Parallels: Max. 16, Max.33, Max.64 (Optional)"
+     ],
+     [
+      "Communication Interface",
+      "RS485/CAN/USB"
+     ],
+     [
+      "Cycle Life",
+      ">8000 Cycles(25°C±2°C, 0.5C, 90%DOD@65%EOL) · ≥10000 Cycles (25°C±2°C, 0.35C, 90%DOD@65%EOL)"
+     ],
+     [
+      "Charge Temperature Range",
+      "0~55°C"
+     ],
+     [
+      "Discharge Temperature Range",
+      "-20-55℃"
+     ],
+     [
+      "Certification",
+      "Pack: CEI 0-21/CE/IEC 62619/UL1973 by Intertek/MSDS/UN38.3 / Cell: UL1642/IEC 62619/CE/EMC/ROHS/MSDS/UN38.3"
+     ],
+     [
+      "Dimension",
+      "450*620*160mm / (Excluding Wal-Mounted Brackets) · 480*650*245mm / (Excluding Wall-Mounted Brackets) · 460*880*245mm / (Excluding Wheels) · 460*880*245mm / (Excluding Wheels)"
+     ],
+     [
+      "Net Weight",
+      "51Kg · 92Kg · 122Kg · 123Kg"
+     ],
+     [
+      "Installation Method",
+      "Wall-Mounted/Floor Standing"
+     ],
+     [
+      "Warranty",
+      "10 years warranty. 15 years design life"
+     ],
+     [
+      "Energy Throughput\"",
+      "22MWh · 44MWh · 62MWh · 70MWh"
+     ],
+     [
+      "Display",
+      "RGB LED Light/3.2\" LCD Touch Screen · RGB LED Light/4.3\" LCD Touch Screen"
+     ],
+     [
+      "Protection Grade",
+      "IP20 · IP20/IP65(Optional)"
+     ],
+     [
+      "Optional",
+      "Circuit Breaker,WIFI Remote Monitoring"
+     ],
+     [
+      "Product Model",
+      "ES-BOX36 · ES-BOX36 PLUS · ES-BOX36 MAX · ES-BOX36 MAX+ / ES-BOX36F MAX+"
+     ],
+     [
+      "Nominal Energy",
+      "5.12kWh · 10.24kWh · 14.34kWh · 16.08kWh"
+     ],
+     [
+      "Nominal Voltage",
+      "51.2V"
+     ],
+     [
+      "Nominal Capacity",
+      "100Ah · 200Ah · 280Ah · 314Ah"
+     ],
+     [
+      "Cell Type",
+      "LFP"
+     ],
+     [
+      "Standard Charge Voltage",
+      "56.8V"
+     ],
+     [
+      "Max.Charge/Discharge Current",
+      "100A · 150A · 200A · 200A"
+     ],
+     [
+      "Discharge Cut-Off Voltage",
+      "44.8V"
+     ],
+     [
+      "Parallel Function",
+      "Parallels: Max.16, Max.33, Max.64 (Optional)"
+     ],
+     [
+      "Communication Interface",
+      "RS485/CAN/USB"
+     ],
+     [
+      "Cycle Life",
+      ">8000 Cycles(25°C±2°C, 0.5C, 90%DOD@65%EOL) · ≥10000 Cycles (25°C±2°C, 0.35C, 90%DOD@65%EOL)"
+     ],
+     [
+      "Charge Temperature Range",
+      "0~55°C"
+     ],
+     [
+      "Discharge Temperature Range",
+      "-20-55℃"
+     ],
+     [
+      "Certification",
+      "Pack: CEI 0-21/CE/IEC 62619/UL1973 by Intertek/MSDS/UN38.3 / Cell: UL1642/IEC 62619/CE/EMC/ROHS/MSDS/UN38.3"
+     ],
+     [
+      "Dimension",
+      "450*620*160mm / (Excluding Wal-Mounted Brackets) · 480*650*245mm / (Excluding Wall-Mounted Brackets) · 460*880*245mm / (Excluding Wheels) · 460*880*245mm / (Excluding Wheels)"
+     ],
+     [
+      "Net Weight",
+      "51Kg · 92Kg · 122Kg · 123Kg"
+     ],
+     [
+      "Installation Method",
+      "Wall-Mounted/Floor Standing"
+     ],
+     [
+      "Warranty",
+      "10 years warranty. 15 years design life"
+     ],
+     [
+      "Energy Throughput\"",
+      "22MWh · 44MWh · 62MWh · 70MWh"
+     ],
+     [
+      "Display",
+      "RGB LED Light/3.2\" LCD Touch Screen · RGB LED Light/4.3\" LCD Touch Screen"
+     ],
+     [
+      "Protection Grade",
+      "IP20 · IP20/IP65(Optional)"
+     ],
+     [
+      "Optional",
+      "Circuit Breaker,WIFI Remote Monitoring"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "ks-series",
+  "title": "KS Series Rack-Mounted Battery 5.12-16.08 kWh",
+  "cat": "rack-mounted-battery",
+  "parent": "residential-energy-storage",
+  "bullets": [
+   "10-year warranty for long-term reliability.",
+   "Low-voltage connection for enhanced safety.",
+   "Superior LiFePO4 safety and performance.",
+   "Flexible installation, saving time and effort.",
+   "1C/1C continuous charge and discharge.",
+   "Automatic sleep and wake-up via inverter command.",
+   "Smart and efficient energy management.",
+   "Reliable performance for home energy storage."
+  ],
+  "sections": [
+   {
+    "name": "Specifications",
+    "rows": [
+     [
+      "Product Model",
+      "ESS-5120-KS7 · ESS-10240-KS6 · ESS-KS3-16280 · ESS-KS3-16314"
+     ],
+     [
+      "Nominal Energy",
+      "5.12kWh · 10.24kWh · 14.34kWh · 16.08kWh"
+     ],
+     [
+      "Nominal Voltage",
+      "51.2V"
+     ],
+     [
+      "Nominal Capacity",
+      "100Ah · 200Ah · 280Ah · 314Ah"
+     ],
+     [
+      "Cell Type",
+      "LFP"
+     ],
+     [
+      "Standard Charge Voltage",
+      "56.8V"
+     ],
+     [
+      "Max. Discharge Current",
+      "100A · 150A · 200A · 200A"
+     ],
+     [
+      "Discharge Cut-Off Voltage",
+      "44.8V"
+     ],
+     [
+      "Parallel Function",
+      "Parallels: Max. 16, Max. 33, Max.64 (Optional)"
+     ],
+     [
+      "Communication Interface",
+      "RS485/CAN/USB"
+     ],
+     [
+      "Cycle Life",
+      "28000 Cycles (25℃±2℃, 0.5C, 80%DOD@65%EOL) · ≥10000 Cycles (25°C±2'C, 0.35C, 80%DOD@65%EOL)"
+     ],
+     [
+      "Charge Temperature Range",
+      "0~55℃"
+     ],
+     [
+      "Discharge Temperature Range",
+      "-20-55℃"
+     ],
+     [
+      "Certification",
+      "Pack: CEI 0-21/CE/IEC 62619/UL1973 by Intertek/MSDS/UN38.3 / Cell: UL1642/IEC 62619/CE/EMC/ROHS/MSDS/UN38.3"
+     ],
+     [
+      "Dimension",
+      "440*440*132mm · 468.6*474.1*235mm · 520*620*230mm · 520*620*230mm"
+     ],
+     [
+      "Net Weight",
+      "43kg · 85kg · 120kg · 120kg"
+     ],
+     [
+      "Installation Method",
+      "Rack-mounted Stackable / /Wall-mounted · Rack-mounted Stackable · Rack-mounted Stackable / /Floor Standing · Rack-mounted Stackable / /Floor Standing"
+     ],
+     [
+      "Warranty",
+      "10 years warranty, 15 years design life"
+     ],
+     [
+      "Energy Throughput !!",
+      "22MWh · 44MWh · 62MWh · 70MWh"
+     ],
+     [
+      "Display",
+      "3.2\" LCD Touch Screen · 3.2\" LCD Touch Screen · 4.3\" LCD Touch Screen · 4.3\" LCD Touch Screen"
+     ],
+     [
+      "Optional",
+      "Circuit Breaker, WiFi, Bluetooth"
+     ],
+     [
+      "Product Model",
+      "ES-BOX36 · ES-BOX36 PLUS · ES-BOX36 MAX · ES-BOX36 MAX+ / ES-BOX36F MAX+"
+     ],
+     [
+      "Nominal Energy",
+      "5.12kWh · 10.24kWh · 14.34kWh · 16.08kWh"
+     ],
+     [
+      "Nominal Voltage",
+      "51.2V"
+     ],
+     [
+      "Nominal Capacity",
+      "100Ah · 200Ah · 280Ah · 314Ah"
+     ],
+     [
+      "Cell Type",
+      "LFP"
+     ],
+     [
+      "Standard Charge Voltage",
+      "56.8V"
+     ],
+     [
+      "Max.Charge/Discharge Current",
+      "100A · 150A · 200A · 200A"
+     ],
+     [
+      "Discharge Cut-Off Voltage",
+      "44.8V"
+     ],
+     [
+      "Parallel Function",
+      "Parallels: Max.16, Max.33, Max.64 (Optional)"
+     ],
+     [
+      "Communication Interface",
+      "RS485/CAN/USB"
+     ],
+     [
+      "Cycle Life",
+      ">8000 Cycles(25°C±2°C, 0.5C, 90%DOD@65%EOL) · ≥10000 Cycles (25°C±2°C, 0.35C, 90%DOD@65%EOL)"
+     ],
+     [
+      "Charge Temperature Range",
+      "0~55°C"
+     ],
+     [
+      "Discharge Temperature Range",
+      "-20-55℃"
+     ],
+     [
+      "Certification",
+      "Pack: CEI 0-21/CE/IEC 62619/UL1973 by Intertek/MSDS/UN38.3 / Cell: UL1642/IEC 62619/CE/EMC/ROHS/MSDS/UN38.3"
+     ],
+     [
+      "Dimension",
+      "450*620*160mm / (Excluding Wal-Mounted Brackets) · 480*650*245mm / (Excluding Wall-Mounted Brackets) · 460*880*245mm / (Excluding Wheels) · 460*880*245mm / (Excluding Wheels)"
+     ],
+     [
+      "Net Weight",
+      "51Kg · 92Kg · 122Kg · 123Kg"
+     ],
+     [
+      "Installation Method",
+      "Wall-Mounted/Floor Standing"
+     ],
+     [
+      "Warranty",
+      "10 years warranty. 15 years design life"
+     ],
+     [
+      "Energy Throughput\"",
+      "22MWh · 44MWh · 62MWh · 70MWh"
+     ],
+     [
+      "Display",
+      "RGB LED Light/3.2\" LCD Touch Screen · RGB LED Light/4.3\" LCD Touch Screen"
+     ],
+     [
+      "Protection Grade",
+      "IP20 · IP20/IP65(Optional)"
+     ],
+     [
+      "Optional",
+      "Circuit Breaker,WIFI Remote Monitoring"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "lv-one22l50",
+  "title": "LV-ONE22L50 All-in-One Solar + Storage System",
+  "cat": "all-in-one-solar-storage",
+  "parent": "residential-energy-storage",
+  "bullets": [
+   "All-in-one solar and storage solution.",
+   "Integrated inverter, charger, UPS and battery system.",
+   "Pre-wired design for fast and easy installation.",
+   "Installation time reduced by up to 50%.",
+   "Compact and elegant space-saving design.",
+   "IP65 protection for indoor and outdoor installation.",
+   "Robust design for all-weather operation.",
+   "Modular system for flexible energy storage."
+  ],
+  "sections": [
+   {
+    "name": "Specifications",
+    "rows": [
+     [
+      "Max. Input Power (KW)",
+      "9"
+     ],
+     [
+      "Max. PV Voltage (V)",
+      "550"
+     ],
+     [
+      "MPPT Range (V)",
+      "80-500"
+     ],
+     [
+      "Full MPPT Range (V)",
+      "170 -500"
+     ],
+     [
+      "Normal Voltage (V)",
+      "360"
+     ],
+     [
+      "Startup Voltage (V)",
+      "100"
+     ],
+     [
+      "Max. Input Current (A)",
+      "18.5×2"
+     ],
+     [
+      "Max. Short Current (A)",
+      "26×2"
+     ],
+     [
+      "No. of MPP Tracker / No. of PV String",
+      "2/2"
+     ]
+    ]
+   },
+   {
+    "name": "Battery Port",
+    "rows": [
+     [
+      "Max. Charge/Discharge Power (KW)",
+      "6"
+     ],
+     [
+      "Max. Charge/Discharge Current (A)",
+      "120"
+     ],
+     [
+      "Battery Normal Voltage (V)",
+      "51.2"
+     ],
+     [
+      "Battery Voltage Range (V)",
+      "40 - 60"
+     ],
+     [
+      "Battery Type",
+      "Li-ion"
+     ]
+    ]
+   },
+   {
+    "name": "AC Grid",
+    "rows": [
+     [
+      "Max Continuous Current (A)",
+      "28"
+     ],
+     [
+      "Max Continuous Power (kVA)",
+      "6"
+     ],
+     [
+      "Nominal Grid Current (A)",
+      "27.3 / 26.1"
+     ],
+     [
+      "Nominal Grid Voltage (V)",
+      "198 to 242 @ 220 / 207 to 253 @230"
+     ],
+     [
+      "Nominal Grid Frequency (Hz)",
+      "50/60"
+     ],
+     [
+      "Power Factor",
+      "0.999 (Adjustable from 0 8 overexcited to 0.8 underexcited)"
+     ],
+     [
+      "Current THD (%)",
+      "<3"
+     ]
+    ]
+   },
+   {
+    "name": "AC Load Output (Back-up)",
+    "rows": [
+     [
+      "Max Continuous Current (A)",
+      "28"
+     ],
+     [
+      "Max Continuous Power (KVA)",
+      "6"
+     ],
+     [
+      "Max Peak Current (A) (10min)",
+      "27.3 / 26.1"
+     ],
+     [
+      "Max Peak Power (kVA) (10min)",
+      "9"
+     ],
+     [
+      "Nominal AC Voltage L-N (V)",
+      "220 / 230"
+     ],
+     [
+      "Nominal AC Frequency (Hz)",
+      "50 / 60"
+     ],
+     [
+      "Switching Time (ms)",
+      "< 10"
+     ],
+     [
+      "Voltage THD (%)",
+      "< 3"
+     ]
+    ]
+   },
+   {
+    "name": "Efficiency",
+    "rows": [
+     [
+      "CEC Efficiency (%)",
+      "98.1"
+     ],
+     [
+      "Max. Efficiency (%)",
+      "98.1"
+     ],
+     [
+      "PV to Bat. Efficiency (%)",
+      "98.1"
+     ],
+     [
+      "Bat. between AC Efficiency (%)",
+      "96.1"
+     ]
+    ]
+   },
+   {
+    "name": "Protection",
+    "rows": [
+     [
+      "PV Reverse Polarity Protection",
+      "Yes"
+     ],
+     [
+      "Over Current/Voltage Protection",
+      "Yes"
+     ],
+     [
+      "Anti-Islanding Protection",
+      "Yes"
+     ],
+     [
+      "AC Short Circuit Protection",
+      "Yes"
+     ],
+     [
+      "Residual Current Detection",
+      "Yes"
+     ],
+     [
+      "Ground Fault Monitoring",
+      "Yes"
+     ],
+     [
+      "Insulation Resister Detection",
+      "Yes"
+     ],
+     [
+      "PV Arc Detection",
+      "Yes"
+     ],
+     [
+      "Enclosure Protect Level",
+      "IP65 / NEMA4X"
+     ],
+     [
+      "AC/DC surge protection",
+      "Type II"
+     ]
+    ]
+   },
+   {
+    "name": "General Data",
+    "rows": [
+     [
+      "Dimensions (W x H x D, mm)",
+      "600 x 1980 x 210"
+     ],
+     [
+      "Total Weight (kg)",
+      "265"
+     ],
+     [
+      "Topology",
+      "Transformerless"
+     ],
+     [
+      "Cooling",
+      "Intelligent Fan"
+     ],
+     [
+      "Relatively Humidity",
+      "0-100%"
+     ],
+     [
+      "Operating Temperature Range (°C)",
+      "-25 to 60"
+     ],
+     [
+      "Operating Altitude (m)",
+      "<4000"
+     ],
+     [
+      "Noise Emission (dB)",
+      "<25"
+     ],
+     [
+      "Standby Consumption (W)",
+      "<10"
+     ],
+     [
+      "Mounting",
+      "Wall Bracket"
+     ],
+     [
+      "Communication with RSD",
+      "SUNSPEC"
+     ],
+     [
+      "Display & Communication Interfaces",
+      "LCD, LED, RS485, CAN, Wi-Fi, GPRS, 4G"
+     ],
+     [
+      "Certification & Approvals",
+      "NRS097, G98/G99, EN50549-1, C10/C11, AS4777.2, VDE-AR-N4105, VDE0126, IEC62109-1, IEC62109-2"
+     ],
+     [
+      "EMC",
+      "EN61000-6-2, EN61000-6-3"
+     ]
+    ]
+   },
+   {
+    "name": "Parameter",
+    "rows": [
+     [
+      "Nominal Voltage(Vdc)",
+      "51.2"
+     ],
+     [
+      "Nominal Capacity(Wh)",
+      "5120"
+     ],
+     [
+      "Working Voltage Range(Vdc)",
+      "44.8-56.8"
+     ],
+     [
+      "Charge Voltage(Vdc)",
+      "58.4"
+     ],
+     [
+      "Nominal Charge/Discharge Current(A)",
+      "50"
+     ],
+     [
+      "Max.Charge/Discharge Current(A)",
+      "100"
+     ],
+     [
+      "Peak Current(A)",
+      "200@3sec"
+     ],
+     [
+      "Parallel Connection",
+      "≤ 4 pcs"
+     ],
+     [
+      "Cycle Life",
+      "≥8000 Cycles (25℃±2℃,0.5C,90%DOD@65%EOL)"
+     ]
+    ]
+   },
+   {
+    "name": "Structure",
+    "rows": [
+     [
+      "Dimension(mm)",
+      "600*210*365"
+     ],
+     [
+      "Weight(kg)",
+      "55"
+     ],
+     [
+      "IP Rating",
+      "IP65"
+     ],
+     [
+      "Installation",
+      "Stacked"
+     ]
+    ]
+   },
+   {
+    "name": "Working Environment",
+    "rows": [
+     [
+      "Charge Working Temperature(°C)",
+      "0-55"
+     ],
+     [
+      "Discharge Working Temperature(°C)",
+      "-20~60"
+     ],
+     [
+      "Altitude(M)",
+      "<2500"
+     ],
+     [
+      "Humidity(RH)",
+      "5-95% (w/o condensing)"
+     ]
+    ]
+   },
+   {
+    "name": "Communication",
+    "rows": [
+     [
+      "Communication Port",
+      "RS485, CAN"
+     ],
+     [
+      "Display",
+      "SOC status indicator, LED indicator"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "lv-one-24l12",
+  "title": "LV-ONE-24L12 All-in-One Solar + Storage System",
+  "cat": "all-in-one-solar-storage",
+  "parent": "residential-energy-storage",
+  "bullets": [
+   "All-in-one solar and energy storage solution.",
+   "Integrated inverter, charger, UPS and battery system.",
+   "Pre-wired design for fast and easy installation.",
+   "Unique one-to-two design for balcony applications.",
+   "Ideal for DIY solar photovoltaic systems.",
+   "IP65 protection for indoor and outdoor use.",
+   "Reliable performance in all weather conditions.",
+   "Compact and flexible modular design."
+  ],
+  "sections": [
+   {
+    "name": "Specifications",
+    "rows": [
+     [
+      "Max. Input Power",
+      "600Wx2"
+     ],
+     [
+      "Recommended PV Module Power (STC) Range",
+      "430Wp-900Wp+"
+     ],
+     [
+      "Operating Voltage Range",
+      "12V-60V"
+     ],
+     [
+      "Max. Input Voltage",
+      "60V"
+     ],
+     [
+      "MPPT Voltage Range",
+      "12V-48V"
+     ],
+     [
+      "Start-up Voltage",
+      "18V"
+     ],
+     [
+      "Max. Continuous Input Current",
+      "17Ax2"
+     ],
+     [
+      "Isc PV",
+      "25Ax2"
+     ]
+    ]
+   },
+   {
+    "name": "AC Input and Output (On-Grid Port)",
+    "rows": [
+     [
+      "Grid Type",
+      "Single-phase"
+     ],
+     [
+      "Nominal AC Voltage",
+      "230V"
+     ],
+     [
+      "Nominal AC Frequencyl",
+      "50Hz"
+     ],
+     [
+      "Default Output Apparent Power",
+      "800VA"
+     ],
+     [
+      "Max. Continuous Output Power",
+      "1200VA"
+     ],
+     [
+      "Max. Continuous Output Current",
+      "5.22A"
+     ],
+     [
+      "Max. Continuous Input Power",
+      "1200VA"
+     ],
+     [
+      "Max. Continuous Input Current",
+      "5.22A"
+     ],
+     [
+      "Power Factor Range",
+      ">0.99(+/-0.8adj.)"
+     ],
+     [
+      "EPS Switch Time",
+      "5ms"
+     ]
+    ]
+   },
+   {
+    "name": "AC Input and Output (Off-Grid Port)",
+    "rows": [
+     [
+      "Grid Type",
+      "Single-phase"
+     ],
+     [
+      "Nominal AC Voltage",
+      "230V"
+     ],
+     [
+      "Nominal AC Frequency",
+      "50Hz"
+     ],
+     [
+      "Max. Continuous Output Power",
+      "1200VA"
+     ],
+     [
+      "Peak Output Apparent Power",
+      "1800VA,10s"
+     ],
+     [
+      "Max. Continuous Output Current",
+      "5.22A"
+     ],
+     [
+      "Max. Continuous Input Power",
+      "2400VA"
+     ],
+     [
+      "Max. Continuous Input Current",
+      "10.43A"
+     ]
+    ]
+   },
+   {
+    "name": "Parameter",
+    "rows": [
+     [
+      "Nominal Voltage(Vdc)",
+      "51.2"
+     ],
+     [
+      "Nominal Capacity(Wh)",
+      "5120"
+     ],
+     [
+      "Working Voltage Range(Vdc)",
+      "44.8-56.8"
+     ],
+     [
+      "Charge Voltage(Vdc)",
+      "58.4"
+     ],
+     [
+      "Nominal Charge/Discharge Current(A)",
+      "50"
+     ],
+     [
+      "Max.Charge/Discharge Current(A)",
+      "100"
+     ],
+     [
+      "Peak Current(A)",
+      "200@3sec"
+     ],
+     [
+      "Parallel Connection",
+      "≤ 4 pcs"
+     ],
+     [
+      "Cycle Life",
+      "≥8000 Cycles (25°C±2°C,0.5C,90%DOD@65%EOL)"
+     ]
+    ]
+   },
+   {
+    "name": "Structure",
+    "rows": [
+     [
+      "Dimension(mm)",
+      "600*210*365"
+     ],
+     [
+      "Weight(kg)",
+      "49"
+     ],
+     [
+      "IP Rating",
+      "IP65"
+     ],
+     [
+      "Installation",
+      "Stacked"
+     ]
+    ]
+   },
+   {
+    "name": "Working Environment",
+    "rows": [
+     [
+      "Charge Working Temperature(C)",
+      "0-55"
+     ],
+     [
+      "Discharge Working Temperature(°C)",
+      "-10-55"
+     ],
+     [
+      "Altitude(M)",
+      "<2500"
+     ],
+     [
+      "Humidity(RH)",
+      "5-95% (w/o condensing)"
+     ]
+    ]
+   },
+   {
+    "name": "Communication",
+    "rows": [
+     [
+      "Communication Port",
+      "USB/RS485/CAN"
+     ],
+     [
+      "Display",
+      "SOC status indicator, LED indicator"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "hv-box6",
+  "title": "HV-BOX6 Stacked High-Voltage Battery",
+  "cat": "stacked-high-voltage",
+  "parent": "residential-energy-storage",
+  "bullets": [
+   "Sleek design with effortless installation.",
+   "Supports up to 650V systems for higher efficiency.",
+   "IP65 protection for reliable outdoor use.",
+   "Supports up to 8 clusters in parallel.",
+   "Flexible stacking for easy system configuration.",
+   "Auto-adaptive BMS for seamless module management.",
+   "Cloud-based real-time balancing for longer service life.",
+   "10-year warranty for long-term reliability."
+  ],
+  "sections": [
+   {
+    "name": "Specifications",
+    "rows": [
+     [
+      "Battery Type",
+      "LiFePO4"
+     ],
+     [
+      "Module Energy (kWh)",
+      "7.02"
+     ],
+     [
+      "Module Nominal Voltage(V)",
+      "57.6"
+     ],
+     [
+      "Rated Energy(Ah)",
+      "122"
+     ],
+     [
+      "Number Of Modules Connected / In Series (Optional)",
+      "2 · 3 · 4 · 5 · 6 · 7 · 8 · 9 · 10"
+     ],
+     [
+      "System Rated Voltage(V)",
+      "115.2 · 172.8 · 230.4 · 288 · 345.6 · 403.2 · 460.8 · 518.4 · 576"
+     ],
+     [
+      "System",
+      "Charging voltage · 129.6 · 194.4 · 259.2 · 324 · 388.8 · 453.6 · 518.4 · 583.2 · 648"
+     ],
+     [
+      "operating / voltage (V)",
+      "Discharge voltage · 100.8 · 151.2 · 201.6 · 252 · 302.4 · 352.8 · 403.2 · 453.6 · 504"
+     ],
+     [
+      "System Nominal Energy (kWh)",
+      "14.04 · 21.06 · 28.08 · 35.1 · 42.12 · 49.14 · 56.16 · 63.18 · 70.2"
+     ],
+     [
+      "System Discharge Energy (kWh)",
+      "14.04 · 21.06 · 28.08 · 35.1 · 42.12 · 49.14 · 56.16 · 63.18 · 70.2"
+     ],
+     [
+      "Charging/ / Discharging / Current (A)",
+      "Rated Current · 36"
+     ],
+     [
+      "Max. Current",
+      "50 (Charge/discharge performance decreases at high temperatures)"
+     ],
+     [
+      "Overload Current",
+      "59(10 sec,25℃)"
+     ],
+     [
+      "Communication Protocol",
+      "CAN2.0"
+     ],
+     [
+      "Working Temperature Range (℃)",
+      "Charge: 0~ 55/Discharge: - 10 ~ 55"
+     ],
+     [
+      "Working Humidity Range",
+      "≤95%(No condensation)"
+     ],
+     [
+      "Working Altitude",
+      "≤2000m"
+     ],
+     [
+      "System Cooling Method",
+      "Passive Cooling"
+     ],
+     [
+      "Protection Grade",
+      "IP65"
+     ],
+     [
+      "Installation Location",
+      "Indoor/Outdoor"
+     ],
+     [
+      "Weight(kg)",
+      "138 · 198 · 258 · 318 · 378 · 438 · 498 · 558 · 618"
+     ],
+     [
+      "Max.Dimension(W*D*Hmm)",
+      "660*400*532 · 660*400*682 · 660*400*832 · 660*400*982 · 660*400*1132 · 660*400*1282 · 660*400*1432 · 660*400*1582 · 660*400*1732"
+     ],
+     [
+      "Storage Temperature(C)",
+      "25~35"
+     ],
+     [
+      "Recommended Discharge Depth",
+      "0.9"
+     ],
+     [
+      "Cycle Life",
+      "≥8000 Cycles (25°C±2℃, 0.5C, 80%DOD@65%EOL)"
+     ],
+     [
+      "Certification",
+      "Cell UL1973/IEC62619/UL9540A/TUV/CE/UN38.3"
+     ],
+     [
+      "Warranty",
+      "10 Years(Under Warranty Terms)"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "hv-box5",
+  "title": "HV-BOX5 Stacked High-Voltage Battery",
+  "cat": "stacked-high-voltage",
+  "parent": "residential-energy-storage",
+  "bullets": [
+   "Sleek design with quick plug-and-play setup..",
+   "Daisy-chain communication for 1–6 cluster scalability.",
+   "Automatic cluster recognition and addressing.",
+   "Three-side air intake for efficient cooling.",
+   "Supports 1C peak discharge for high-power performance.",
+   "Real-time balancing with optional 2A active balancing.",
+   "Easy maintenance with upgrade-ready design.",
+   "LiFePO4 battery for safe, stable energy storage."
+  ],
+  "sections": [
+   {
+    "name": "Specifications",
+    "rows": [
+     [
+      "Module Rated Energy(kWh)",
+      "16.08"
+     ],
+     [
+      "Module Rated Voltage(V)",
+      "51.2"
+     ],
+     [
+      "Rated Capacity(Ah)",
+      "314"
+     ],
+     [
+      "No. Of System Module In Series",
+      "6 · 7 · 8 · 9 · 10 · 11 · 12 · 13 · 14 · 15"
+     ],
+     [
+      "System Rated Voltage(V)",
+      "307.2 · 358.4 · 409.6 · 460.8 · 512 · 563.2 · 614.4 · 665.6 · 716.8 · 768"
+     ],
+     [
+      "System / Operating / Voltage(V)",
+      "Charge Voltage · 345.6 · 403.2 · 460.8 · 518.4 · 576 · 633.6 · 691.2 · 748.8 · 806.4 · 864"
+     ],
+     [
+      "Discharge Voltage",
+      "268.8 · 313.6 · 358.4 · 403.2 · 448 · 492.8 · 537.6 · 582.4 · 627.2 · 672"
+     ],
+     [
+      "System Nominal Energy (kWh)",
+      "96.46 · 112.54 · 128.62 · 144.69 · 160.77 · 176.84 · 192.92 · 209 · 225.08 · 241.15"
+     ],
+     [
+      "System Dischargeable / Energy (kWh)",
+      "92.6 · 108.04 · 123.48 · 138.9 · 154.34 · 169.77 · 185.2 · 200.64 · 216.08 · 231.5"
+     ],
+     [
+      "Charging/DischargingCurrent (A)",
+      "Rated Current · 157"
+     ],
+     [
+      "Max. Current",
+      "165"
+     ],
+     [
+      "Overload Current",
+      "170(10sec,25°C)"
+     ],
+     [
+      "Status Indicator Light",
+      "Blue: energy storage system start status, green: energy storage system operation status, / red: energy storage system fault status"
+     ],
+     [
+      "With Active Balancing Or Not",
+      "Optional"
+     ],
+     [
+      "Communication Protocol",
+      "CAN2.0"
+     ],
+     [
+      "Working Temperature Range (℃)",
+      "Charge: 0~ 55/Discharge: - 10~55"
+     ],
+     [
+      "Working Humidity Range",
+      "≤95% (No condensation)"
+     ],
+     [
+      "Working Altitude",
+      "≤2000m"
+     ],
+     [
+      "System Cooling Method",
+      "Fan cooling"
+     ],
+     [
+      "Waterproof Rating",
+      "IP20"
+     ],
+     [
+      "Installation Place",
+      "Indoors"
+     ],
+     [
+      "Weigt(kg)",
+      "835 · 965 · 1095 · 1225 · 1355 · 1485 · 1615 · 1745 · 1875 · 2005"
+     ],
+     [
+      "Max. Dimension(mm)",
+      "940*835*2115"
+     ],
+     [
+      "Storage Temperature(C)",
+      "0~35"
+     ],
+     [
+      "Recommended Discharge Depth",
+      "90%"
+     ],
+     [
+      "Cycle Life",
+      "≥10000 Cycles (25°C±2°C, 0.35C, 80%DOD@65%EOL)"
+     ],
+     [
+      "Certification",
+      "Cell:UL1973/IEC62619/UL9540A/TUV/CE/UN38.3"
+     ],
+     [
+      "Warranty",
+      "5 Years(Under Warranty Terms)"
+     ],
+     [
+      "Energy Throughput\"",
+      "211MWh · 246MWh · 281MWh · 317MWh · 352MWh · 387MWh · 422MWh · 458MWh · 493MWh · 528MWh"
+     ],
+     [
+      "ES-BOX36 MAX",
+      "ES-BOX36 MAX+ / ES-BOX36F MAX+"
+     ],
+     [
+      "14.34kWh",
+      "16.08kWh"
+     ],
+     [
+      "280Ah",
+      "314Ah"
+     ],
+     [
+      "200A",
+      "200A"
+     ]
+    ]
+   },
+   {
+    "name": "≥10000 Cycles (25°C±2°C, 0.35C, 90%DOD@65%EOL)",
+    "rows": [
+     [
+      "460*880*245mm / (Excluding Wheels)",
+      "460*880*245mm / (Excluding Wheels)"
+     ],
+     [
+      "122Kg",
+      "123Kg"
+     ],
+     [
+      "62MWh",
+      "70MWh"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "tower-hv-614v100ah",
+  "title": "Tower-HV 61.4 kWh Rack ESS (614V 100Ah)",
+  "cat": "tower-series",
+  "parent": "commercial-industrial-ess",
+  "bullets": [
+   "Compact and lightweight for easy installation.",
+   "Modular design with 30.72–61.4 kWh capacity.",
+   "Flexible stacking for scalable energy storage.",
+   "Safe and reliable with long cycle life.",
+   "Built-in fan for efficient heat dissipation.",
+   "Smart BMS for intelligent battery management.",
+   "High-power performance for demanding applications.",
+   "Ideal for commercial and industrial energy storage."
+  ],
+  "sections": [
+   {
+    "name": "Specifications",
+    "rows": [
+     [
+      "Battery Type",
+      "LiFePO4"
+     ],
+     [
+      "Model Power(kWh)",
+      "5.12"
+     ],
+     [
+      "Module Nominal Voltage(V)",
+      "51.2"
+     ],
+     [
+      "Rated Energy(Ah)",
+      "100"
+     ],
+     [
+      "Battery Module QTY",
+      "6 · 7 · 8 · 9 · 10 · 11 · 12"
+     ],
+     [
+      "System Rated Voltage(V)",
+      "307.2 · 358.4 · 409.6 · 460.8 · 512 · 563.2 · 614.4"
+     ],
+     [
+      "System Operating Voltage (V)",
+      "268.8~345.6 · 313.6~403.2 · 358.4~460.8 · 403.2~518.4 · 448~576 · 492.8~633.6 · 537.6~691.2"
+     ],
+     [
+      "System Nominal Power (kWh)",
+      "30.72 · 35.84 · 40.96 · 46.08 · 51.2 · 56.32 · 61.44"
+     ],
+     [
+      "System Discharge Power (kWh)",
+      "29.49 · 34.41 · 39.32 · 44.23 · 49.15 · 54.06 · 58.98"
+     ],
+     [
+      "Charging/ / Discharging / Current (A)",
+      "Rated Current · 50"
+     ],
+     [
+      "Max. Current",
+      "100"
+     ],
+     [
+      "Overload Current",
+      "125(10sec,25°C)"
+     ],
+     [
+      "Status Indicator Light",
+      "Blue: battery system start status, green: battery system running status, red: battery system fault status"
+     ],
+     [
+      "Communication Protocol",
+      "CAN2.0"
+     ],
+     [
+      "Working Temperature Range (℃)",
+      "-10~55"
+     ],
+     [
+      "Working Humidity Range",
+      "≤95%(No condensation)"
+     ],
+     [
+      "Working Altitude",
+      "≤2000m"
+     ],
+     [
+      "System Cooling Method",
+      "Natural cooling"
+     ],
+     [
+      "Protection Grade",
+      "IP20"
+     ],
+     [
+      "Installation Location",
+      "Indoor"
+     ],
+     [
+      "Net Weight(kg)",
+      "364 · 408 · 452 · 496 · 540 · 584 · 628"
+     ],
+     [
+      "Dimension(mm)",
+      "560*629*2158"
+     ],
+     [
+      "Storage Temperature(C)",
+      "0~35"
+     ],
+     [
+      "Recommended Discharge Depth",
+      "0.9"
+     ],
+     [
+      "Cycle Life",
+      "≥8000 Cycles (25°C±2°C, 0.5C, 80%DOD@65%EOL)"
+     ],
+     [
+      "Certification",
+      "CE/MSDS/UN38.3"
+     ],
+     [
+      "Warranty",
+      "5 Years(Under Warranty Terms)"
+     ],
+     [
+      "Energy Throughput\"",
+      "67MWh · 78MWh · 89MWh · 100MWh · 112MWh · 123MWh · 134MWh"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "tower-x-hv-716v100ah",
+  "title": "Tower-X-HV 71.6 kWh Modular ESS (716V 100Ah)",
+  "cat": "tower-series",
+  "parent": "commercial-industrial-ess",
+  "bullets": [
+   "Supports 3–7 battery modules in series for flexible expansion.",
+   "Modular plug-and-play design for easy installation.",
+   "Supports up to 4 battery clusters in parallel.",
+   "Smart master-slave identification without DIP settings.",
+   "WiFi remote monitoring for anytime, anywhere access.",
+   "OTA remote upgrades for easy maintenance.",
+   "Cloud-based BMS balancing for accurate SOC and longer battery life.",
+   "Supports up to 1C charge and discharge for high-power performance."
+  ],
+  "sections": [
+   {
+    "name": "Specifications",
+    "rows": [
+     [
+      "Module Power(kWh)",
+      "10.24"
+     ],
+     [
+      "Module Nominal Voltage(V)",
+      "102.4"
+     ],
+     [
+      "Rated Energy(Ah)",
+      "100"
+     ],
+     [
+      "No Of System Module Series / Connections (Optional)",
+      "3 · 4 · 5 · 6 · 7"
+     ],
+     [
+      "System Rated Voltage(V)",
+      "307.2 · 409.6 · 512 · 614.4 · 716.8"
+     ],
+     [
+      "System Operation Voltage(V)",
+      "268.8~345.6 · 358.4~460.8 · 448~576 · 537.6~691.2 · 672.2~806.4"
+     ],
+     [
+      "System Rated Power(kWh)",
+      "30.72 · 40.96 · 51.2 · 61.4 · 71.68"
+     ],
+     [
+      "System Discharge Power(kWh)",
+      "29.49 · 39.32 · 49.15 · 58.98 · 68.81"
+     ],
+     [
+      "Charging/ / Discharging / Current (A)",
+      "Rated Current · 50"
+     ],
+     [
+      "Max. Current",
+      "100"
+     ],
+     [
+      "Overload Current",
+      "115(10sec,25°C) · 1"
+     ],
+     [
+      "Status Indicator Light",
+      "Blue: battery system start status, green: battery system running status, / red: battery system fault status"
+     ],
+     [
+      "Communication Protocol",
+      "CAN2.0"
+     ],
+     [
+      "Working Temperature Range",
+      "-10°C ~55℃"
+     ],
+     [
+      "Working Humidity Range",
+      "≤95% (No condensation)"
+     ],
+     [
+      "Working Altitude",
+      "≤2000m"
+     ],
+     [
+      "System Cooling Method",
+      "Fan cooling"
+     ],
+     [
+      "Waterproof Grade",
+      "IP20"
+     ],
+     [
+      "Installation Location",
+      "Indoor"
+     ],
+     [
+      "Net Weight (kg)",
+      "310 · 400 · 490 · 580 · 670"
+     ],
+     [
+      "Max. Size (mm)",
+      "577*800*740 · 577*800*900 · 577*800*1060 · 577*800*1220 · 577*800*1380"
+     ],
+     [
+      "Storage Temperature",
+      "0~35"
+     ],
+     [
+      "Recommended Discharge Depth",
+      "0.9"
+     ],
+     [
+      "Cycle Life",
+      "≥8000 Cycles (25°C±2℃, 0.5C, 80%DOD@65%EOL)"
+     ],
+     [
+      "Certification",
+      "Cell: UL1973/IEC62619/UL9540A/TUV/CE/MSDS/UN38.3"
+     ],
+     [
+      "Warranty",
+      "5 Years(Under Warranty Terms)"
+     ],
+     [
+      "Energy Throughput1)",
+      "67MWh · 89MWh · 112MWh · 134MWh · 156MWh"
+     ],
+     [
+      "Product Model",
+      "ES-BOX36 · ES-BOX36 PLUS · ES-BOX36 MAX · ES-BOX36 MAX+ / ES-BOX36F MAX+"
+     ],
+     [
+      "Nominal Energy",
+      "5.12kWh · 10.24kWh · 14.34kWh · 16.08kWh"
+     ],
+     [
+      "Nominal Voltage",
+      "51.2V"
+     ],
+     [
+      "Nominal Capacity",
+      "100Ah · 200Ah · 280Ah · 314Ah"
+     ],
+     [
+      "Cell Type",
+      "LFP"
+     ],
+     [
+      "Standard Charge Voltage",
+      "56.8V"
+     ],
+     [
+      "Max.Charge/Discharge Current",
+      "100A · 150A · 200A · 200A"
+     ],
+     [
+      "Discharge Cut-Off Voltage",
+      "44.8V"
+     ],
+     [
+      "Parallel Function",
+      "Parallels: Max.16, Max.33, Max.64 (Optional)"
+     ],
+     [
+      "Communication Interface",
+      "RS485/CAN/USB"
+     ],
+     [
+      "Cycle Life",
+      ">8000 Cycles(25°C±2°C, 0.5C, 90%DOD@65%EOL) · ≥10000 Cycles (25°C±2°C, 0.35C, 90%DOD@65%EOL)"
+     ],
+     [
+      "Charge Temperature Range",
+      "0~55°C"
+     ],
+     [
+      "Discharge Temperature Range",
+      "-20-55℃"
+     ],
+     [
+      "Certification",
+      "Pack: CEI 0-21/CE/IEC 62619/UL1973 by Intertek/MSDS/UN38.3 / Cell: UL1642/IEC 62619/CE/EMC/ROHS/MSDS/UN38.3"
+     ],
+     [
+      "Dimension",
+      "450*620*160mm / (Excluding Wal-Mounted Brackets) · 480*650*245mm / (Excluding Wall-Mounted Brackets) · 460*880*245mm / (Excluding Wheels) · 460*880*245mm / (Excluding Wheels)"
+     ],
+     [
+      "Net Weight",
+      "51Kg · 92Kg · 122Kg · 123Kg"
+     ],
+     [
+      "Installation Method",
+      "Wall-Mounted/Floor Standing"
+     ],
+     [
+      "Warranty",
+      "10 years warranty. 15 years design life"
+     ],
+     [
+      "Energy Throughput\"",
+      "22MWh · 44MWh · 62MWh · 70MWh"
+     ],
+     [
+      "Display",
+      "RGB LED Light/3.2\" LCD Touch Screen · RGB LED Light/4.3\" LCD Touch Screen"
+     ],
+     [
+      "Protection Grade",
+      "IP20 · IP20/IP65(Optional)"
+     ],
+     [
+      "Optional",
+      "Circuit Breaker,WIFI Remote Monitoring"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "tower-x-hv-768v206ah",
+  "title": "Tower-X-HV 158.3 kWh Passively Cooled ESS (768V 206Ah)",
+  "cat": "tower-series",
+  "parent": "commercial-industrial-ess",
+  "bullets": [
+   "Advanced BMS with real-time monitoring and remote management.",
+   "CAN 2.0 communication for transparent data control.",
+   "768V high-voltage architecture for reduced transmission loss.",
+   "Up to 8,000 cycles for long-term reliability.",
+   "Multiple safety protections for secure operation.",
+   "Flexible 4–10 module configuration.",
+   "61–151 kWh scalable capacity for different energy needs.",
+   "Ideal for commercial, PV and premium residential energy storage."
+  ],
+  "sections": [
+   {
+    "name": "Specifications",
+    "rows": [
+     [
+      "Battery Type",
+      "LiFePO4"
+     ],
+     [
+      "Module Nominal Energy(kWh)",
+      "16"
+     ],
+     [
+      "Mini. Energy Of Module (kWh)",
+      "15.5"
+     ],
+     [
+      "Module Nominal Voltage (V)",
+      "76.8"
+     ],
+     [
+      "Rated Capacity(Ah)",
+      "206"
+     ],
+     [
+      "No. Of System Module Series / Connections (Optional)",
+      "4 · 5 · 6 · 7 · 8 · 9 · 10"
+     ],
+     [
+      "Rated Voltage Of the System(V)",
+      "307.2 · 384 · 460.8 · 537.6 · 614.4 · 691.2 · 768"
+     ],
+     [
+      "System Working Voltage(V)",
+      "268.8~345.6 · 336~432 · 403.2~518.4 · 470.4~604.8 · 537.6~691.2 · 604.8~777.6 · 672~864"
+     ],
+     [
+      "System Nominal Energy(kWh)",
+      "64 · 80 · 96 · 112 · 128 · 144 · 160"
+     ],
+     [
+      "Mini. Discharge Energy Of The / System (kWh)",
+      "60.74 · 75.93 · 91.12 · 106.3 · 121.5 · 136.69 · 151.87"
+     ],
+     [
+      "Charging/ / Discharging / Current (A)",
+      "Rated Current · 50"
+     ],
+     [
+      "Max. Current",
+      "100"
+     ],
+     [
+      "Overload Current",
+      "150(10sec,25°C)"
+     ],
+     [
+      "Status Indicator Light",
+      "Blue: Battery system start status, green: Battery system operation status, Red:Battery system fault status"
+     ],
+     [
+      "Communication Protocol",
+      "CAN2.0"
+     ],
+     [
+      "Operating Temperature Range (℃)",
+      "-10~55"
+     ],
+     [
+      "Operating Humidity Range",
+      "≤95% (No condensation)"
+     ],
+     [
+      "Operating Altitude",
+      "≤2000m"
+     ],
+     [
+      "System Cooling Method",
+      "Fan cooling"
+     ],
+     [
+      "Waterproof Rating",
+      "IP20"
+     ],
+     [
+      "Installation Place",
+      "Indoors"
+     ],
+     [
+      "Net Weight (kg)",
+      "≈1408"
+     ],
+     [
+      "Dimensions(mm)",
+      "1358*707*1555"
+     ],
+     [
+      "Storage Temperature(C)",
+      "0~35"
+     ],
+     [
+      "Recommended Depth of / Discharge (DOD)",
+      "0.9"
+     ],
+     [
+      "Fire Protection System",
+      "Aerosol (optional)"
+     ],
+     [
+      "Cycle Life",
+      "≥8000 Cycles (25°C±2℃, 0.5C, 80%DOD@65%EOL)"
+     ],
+     [
+      "Warranty",
+      "5 Years(Under Warranty Terms)"
+     ],
+     [
+      "Energy Throughput1)",
+      "133MWh · 166MWh · 200MWh · 233MWh · 266MWh · 299MWh · 333MWh"
+     ],
+     [
+      "Certification",
+      "Cell: UL1973/IEC62619/CE/ROHS/MSDS/UN38.3"
+     ],
+     [
+      "Product Model",
+      "ES-BOX36 · ES-BOX36 PLUS · ES-BOX36 MAX · ES-BOX36 MAX+ / ES-BOX36F MAX+"
+     ],
+     [
+      "Nominal Energy",
+      "5.12kWh · 10.24kWh · 14.34kWh · 16.08kWh"
+     ],
+     [
+      "Nominal Voltage",
+      "51.2V"
+     ],
+     [
+      "Nominal Capacity",
+      "100Ah · 200Ah · 280Ah · 314Ah"
+     ],
+     [
+      "Cell Type",
+      "LFP"
+     ],
+     [
+      "Standard Charge Voltage",
+      "56.8V"
+     ],
+     [
+      "Max.Charge/Discharge Current",
+      "100A · 150A · 200A · 200A"
+     ],
+     [
+      "Discharge Cut-Off Voltage",
+      "44.8V"
+     ],
+     [
+      "Parallel Function",
+      "Parallels: Max.16, Max.33, Max.64 (Optional)"
+     ],
+     [
+      "Communication Interface",
+      "RS485/CAN/USB"
+     ],
+     [
+      "Cycle Life",
+      ">8000 Cycles(25°C±2°C, 0.5C, 90%DOD@65%EOL) · ≥10000 Cycles (25°C±2°C, 0.35C, 90%DOD@65%EOL)"
+     ],
+     [
+      "Charge Temperature Range",
+      "0~55°C"
+     ],
+     [
+      "Discharge Temperature Range",
+      "-20-55℃"
+     ],
+     [
+      "Certification",
+      "Pack: CEI 0-21/CE/IEC 62619/UL1973 by Intertek/MSDS/UN38.3 / Cell: UL1642/IEC 62619/CE/EMC/ROHS/MSDS/UN38.3"
+     ],
+     [
+      "Dimension",
+      "450*620*160mm / (Excluding Wal-Mounted Brackets) · 480*650*245mm / (Excluding Wall-Mounted Brackets) · 460*880*245mm / (Excluding Wheels) · 460*880*245mm / (Excluding Wheels)"
+     ],
+     [
+      "Net Weight",
+      "51Kg · 92Kg · 122Kg · 123Kg"
+     ],
+     [
+      "Installation Method",
+      "Wall-Mounted/Floor Standing"
+     ],
+     [
+      "Warranty",
+      "10 years warranty. 15 years design life"
+     ],
+     [
+      "Energy Throughput\"",
+      "22MWh · 44MWh · 62MWh · 70MWh"
+     ],
+     [
+      "Display",
+      "RGB LED Light/3.2\" LCD Touch Screen · RGB LED Light/4.3\" LCD Touch Screen"
+     ],
+     [
+      "Protection Grade",
+      "IP20 · IP20/IP65(Optional)"
+     ],
+     [
+      "Optional",
+      "Circuit Breaker,WIFI Remote Monitoring"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "tower-x-hv-768v314ah",
+  "title": "Tower-X-HV 241.2 kWh ESS (768V 314Ah)",
+  "cat": "tower-series",
+  "parent": "commercial-industrial-ess",
+  "bullets": [
+   "Safe and reliable with long cycle life.",
+   "Flexible stacking for easy installation.",
+   "Built-in fan for efficient heat dissipation.",
+   "Smart BMS for intelligent battery management.",
+   "High power and high energy density.",
+   "Integrated design for easy installation and higher efficiency.",
+   "Full bracket design for optimal cell performance.",
+   "Freely stackable design saves space and installation costs."
+  ],
+  "sections": [
+   {
+    "name": "Specifications",
+    "rows": [
+     [
+      "Battery Type",
+      "LiFePO4"
+     ],
+     [
+      "Module Nominal Energy(kWh)",
+      "16.08"
+     ],
+     [
+      "Module Nominal Voltage (V)",
+      "51.2"
+     ],
+     [
+      "Rated Capacity(Ah)",
+      "314"
+     ],
+     [
+      "No. Of System Module Series / Connections (Optional)",
+      "6 · 7 · 8 · 9 · 10 · 11 · 12 · 13 · 14 · 15"
+     ],
+     [
+      "Rated Voltage Of the System(V)",
+      "307.2 · 358.4 · 409.6 · 460.8 · 512 · 563.2 · 614.4 · 665.6 · 716.8 · 768"
+     ],
+     [
+      "System Working Voltage(V)",
+      "268.8~345.6 · 313.6~403.2 · 358.4~460.8 · 403.2~518.4 · 448~576 · 492.8~633.6 · 537.6~691.2 · 582.4~748.8 · 627.2~806.4 · 672~864"
+     ],
+     [
+      "System Nominal Energy(kWh)",
+      "96.46 · 112.54 · 128.62 · 144.69 · 160.77 · 176.84 · 192.92 · 209 · 225.08 · 241.15"
+     ],
+     [
+      "Discharge Energy Of The / System (kWh)",
+      "92.6 · 108.04 · 123.48 · 138.9 · 154.34 · 169.77 · 185.2 · 200.64 · 216.08 · 231.5"
+     ],
+     [
+      "Charging/ / Discharging / Current (A)",
+      "Rated Current · 157"
+     ],
+     [
+      "Max. Current",
+      "165"
+     ],
+     [
+      "Overload Current",
+      "170(10sec,25°C)"
+     ],
+     [
+      "Active Balancing",
+      "Optional"
+     ],
+     [
+      "Communication Protocol",
+      "CAN2.0"
+     ],
+     [
+      "Operating Temperature Range (C)",
+      "-10~55"
+     ],
+     [
+      "Operating Humidity Range",
+      "≤95% (No condensation)"
+     ],
+     [
+      "Operating Altitude",
+      "≤2000m"
+     ],
+     [
+      "System Cooling Method",
+      "Fan cooling"
+     ],
+     [
+      "Waterproof Rating",
+      "IP20"
+     ],
+     [
+      "Installation Place",
+      "Indoors"
+     ],
+     [
+      "Net Weight (kg)",
+      "986 · 1104 · 1222 · 1340 · 1458 · 1576 · 1694 · 1812 · 1930 · 2048"
+     ],
+     [
+      "Dimensions (mm)",
+      "1050*831*2070"
+     ],
+     [
+      "Storage Temperature(C)",
+      "0~35"
+     ],
+     [
+      "Recommended Depth of / Discharge (DOD)",
+      "0.9"
+     ],
+     [
+      "Cycle Life",
+      "≥10000 Cycles (25°C±2℃, 0.35C, 80%DOD@65%EOL)"
+     ],
+     [
+      "Certification",
+      "Cell: UL1973/IEC62619/UL9540A/TUV/CE/MSDS/UN38.3"
+     ],
+     [
+      "Warranty",
+      "5 Years(Under Warranty Terms)"
+     ],
+     [
+      "Energy Throughput",
+      "211MWh · 246MWh · 281MWh · 317MWh · 352MWh · 387MWh · 422MWh · 458MWh · 493MWh · 528MWh"
+     ],
+     [
+      "Product Model",
+      "ES-BOX36 · ES-BOX36 PLUS · ES-BOX36 MAX · ES-BOX36 MAX+ / ES-BOX36F MAX+"
+     ],
+     [
+      "Nominal Energy",
+      "5.12kWh · 10.24kWh · 14.34kWh · 16.08kWh"
+     ],
+     [
+      "Nominal Voltage",
+      "51.2V"
+     ],
+     [
+      "Nominal Capacity",
+      "100Ah · 200Ah · 280Ah · 314Ah"
+     ],
+     [
+      "Cell Type",
+      "LFP"
+     ],
+     [
+      "Standard Charge Voltage",
+      "56.8V"
+     ],
+     [
+      "Max.Charge/Discharge Current",
+      "100A · 150A · 200A · 200A"
+     ],
+     [
+      "Discharge Cut-Off Voltage",
+      "44.8V"
+     ],
+     [
+      "Parallel Function",
+      "Parallels: Max.16, Max.33, Max.64 (Optional)"
+     ],
+     [
+      "Communication Interface",
+      "RS485/CAN/USB"
+     ],
+     [
+      "Cycle Life",
+      ">8000 Cycles(25°C±2°C, 0.5C, 90%DOD@65%EOL) · ≥10000 Cycles (25°C±2°C, 0.35C, 90%DOD@65%EOL)"
+     ],
+     [
+      "Charge Temperature Range",
+      "0~55°C"
+     ],
+     [
+      "Discharge Temperature Range",
+      "-20-55℃"
+     ],
+     [
+      "Certification",
+      "Pack: CEI 0-21/CE/IEC 62619/UL1973 by Intertek/MSDS/UN38.3 / Cell: UL1642/IEC 62619/CE/EMC/ROHS/MSDS/UN38.3"
+     ],
+     [
+      "Dimension",
+      "450*620*160mm / (Excluding Wal-Mounted Brackets) · 480*650*245mm / (Excluding Wall-Mounted Brackets) · 460*880*245mm / (Excluding Wheels) · 460*880*245mm / (Excluding Wheels)"
+     ],
+     [
+      "Net Weight",
+      "51Kg · 92Kg · 122Kg · 123Kg"
+     ],
+     [
+      "Installation Method",
+      "Wall-Mounted/Floor Standing"
+     ],
+     [
+      "Warranty",
+      "10 years warranty. 15 years design life"
+     ],
+     [
+      "Energy Throughput\"",
+      "22MWh · 44MWh · 62MWh · 70MWh"
+     ],
+     [
+      "Display",
+      "RGB LED Light/3.2\" LCD Touch Screen · RGB LED Light/4.3\" LCD Touch Screen"
+     ],
+     [
+      "Protection Grade",
+      "IP20 · IP20/IP65(Optional)"
+     ],
+     [
+      "Optional",
+      "Circuit Breaker,WIFI Remote Monitoring"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "tower-hv-1331v314ah-gt",
+  "title": "Tower-HV 418 kWh High-Voltage ESS (1331V 314Ah)",
+  "cat": "tower-series",
+  "parent": "commercial-industrial-ess",
+  "bullets": [
+   "768V & 1331V high-voltage platforms for flexible system integration.",
+   "Strong anti-interference design for stable cluster communication.",
+   "High energy density for efficient containerized energy storage.",
+   "Compatible with 20FT and 40FT container integration.",
+   "Smart 3-level BMS with active balancing.",
+   "High-precision 1% monitoring for reliable battery management.",
+   "Supports mixed old and new modules with online expansion.",
+   "Cluster-level active safety with dedicated combiner cabinet."
+  ],
+  "sections": [
+   {
+    "name": "Specifications",
+    "rows": [
+     [
+      "Module Nominal Energy(kWh)",
+      "16.08"
+     ],
+     [
+      "Module Nominal Voltage (V)",
+      "51.2"
+     ],
+     [
+      "Rated Capacity(Ah)",
+      "314"
+     ],
+     [
+      "No. Of System Module Series / Connections (Optional)",
+      "26"
+     ],
+     [
+      "Rated Voltage Of the System(V)",
+      "1331.2"
+     ],
+     [
+      "System Working Voltage(V)",
+      "1164.8~1497.6"
+     ],
+     [
+      "System Nominal Energy(kWh)",
+      "418"
+     ],
+     [
+      "Discharge Energy Of The / System (kWh)",
+      "401.27"
+     ],
+     [
+      "Charging/DischargingCurrent (A)",
+      "Rated Current · 157"
+     ],
+     [
+      "Max. Current",
+      "165"
+     ],
+     [
+      "Overload Current",
+      "170(10sec,25°C)"
+     ],
+     [
+      "Status Indicator Light",
+      "Blue: Battery system start status, green: Battery system operation status, / Red:Battery system fault status"
+     ],
+     [
+      "Active Balancing",
+      "Optional"
+     ],
+     [
+      "Communication Protocol",
+      "CAN2.0"
+     ],
+     [
+      "Operating Temperature Range (C)",
+      "-10~55"
+     ],
+     [
+      "Operating Humidity Range",
+      "≤95% (No condensation)"
+     ],
+     [
+      "Operating Altitude",
+      "≤2000m"
+     ],
+     [
+      "System Cooling Method",
+      "Fan cooling"
+     ],
+     [
+      "Waterproof Rating",
+      "IP20"
+     ],
+     [
+      "Installation Place",
+      "Indoors"
+     ],
+     [
+      "Net Weight (kg)",
+      "\"=3317\""
+     ],
+     [
+      "Dimensions (mm)",
+      "1500*822*2360"
+     ],
+     [
+      "Storage Temperature(C)",
+      "0~35"
+     ],
+     [
+      "Recommended Depth of / Discharge (DOD)",
+      "0.9"
+     ],
+     [
+      "Cycle Life",
+      "≥10000 Cycles (25℃±2℃, 0.35C, 80%DOD@65%EOL)"
+     ],
+     [
+      "Certification",
+      "Cell: UL1973/IEC62619/UL9540A/TUV/CE/MSDS/UN38.3"
+     ],
+     [
+      "Warranty",
+      "5 Years(Under Warranty Terms)"
+     ],
+     [
+      "Energy Throughput\"",
+      "915MWh"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "magic-112kwh",
+  "title": "Magic 112 kWh Outdoor Energy Storage Cabinet",
+  "cat": "magic-series",
+  "parent": "commercial-industrial-ess",
+  "bullets": [
+   "Full bracket design for optimal cell performance.",
+   "Integrated design for easy installation and higher efficiency.",
+   "WiFi remote monitoring for smart and convenient management.",
+   "Smart BMS for intelligent battery protection.",
+   "High-power performance for demanding applications.",
+   "High energy density for greater energy output.",
+   "Safe and reliable with long cycle life.",
+   "Exquisite craftsmanship with an eco-friendly design."
+  ],
+  "sections": [
+   {
+    "name": "Specifications",
+    "rows": [
+     [
+      "Module Nominal Energy (kWh)",
+      "16"
+     ],
+     [
+      "Module Mini. Energy (kWh)",
+      "15.5"
+     ],
+     [
+      "Module Nominal Voltage (V)",
+      "76.8"
+     ],
+     [
+      "Rated Capacity (Ah)",
+      "206"
+     ],
+     [
+      "No. Of System Module In Series",
+      "7"
+     ],
+     [
+      "System Rated Voltage (V)",
+      "537.6"
+     ],
+     [
+      "System Operating Voltage (V)",
+      "470.4-604.8"
+     ],
+     [
+      "System Nominal Energy (kWh)",
+      "112"
+     ],
+     [
+      "Rated Current / Charge/DischargeCurrent(A)",
+      "Rated Current · 106.31"
+     ],
+     [
+      "Max. Current",
+      "120"
+     ],
+     [
+      "Overload Current",
+      "130"
+     ],
+     [
+      "Status Indicator Light",
+      "150(10sec,25°C)"
+     ],
+     [
+      "Communication Protocol",
+      "Blue: energy storage system start status, green: energy storage system operation status, / red: energy storage system fault status"
+     ],
+     [
+      "Working Temperature Range (°C)",
+      "CAN2.0"
+     ],
+     [
+      "Working Humidity Range",
+      "-10~55"
+     ],
+     [
+      "Working Humidity Range",
+      "≤95% (No condensation)"
+     ],
+     [
+      "Working Altitude",
+      "≤2000m"
+     ],
+     [
+      "System Cooling Method",
+      "Fan cooling"
+     ],
+     [
+      "Waterproof Rating",
+      "IP55"
+     ],
+     [
+      "Installation Place",
+      "Outdoors"
+     ],
+     [
+      "Weigt(kg)",
+      "1600"
+     ],
+     [
+      "Max. Dimension(mm)",
+      "1090*1050*2230"
+     ],
+     [
+      "Storage Temperature(°C)",
+      "0-35"
+     ],
+     [
+      "Recommended Discharge Depth",
+      "0.9"
+     ],
+     [
+      "System Composition",
+      "BMS System, Fire suppression system. Air cooling unit. Cabinet, PCS system"
+     ],
+     [
+      "Cycle Life",
+      "≥8000 Cycles (25°C±2℃, 0.5C, 80%DOD@65%EOL)"
+     ],
+     [
+      "Certification",
+      "Cell: UL1973/IEC62619/CE/ROHS/MSDS/UN38.3"
+     ],
+     [
+      "Warranty",
+      "5 Years(Under Warranty Terms)"
+     ],
+     [
+      "Energy Throughput !!",
+      "245MWh"
+     ],
+     [
+      "ES-BOX36 MAX",
+      "ES-BOX36 MAX+ / ES-BOX36F MAX+"
+     ],
+     [
+      "14.34kWh",
+      "16.08kWh"
+     ],
+     [
+      "280Ah",
+      "314Ah"
+     ],
+     [
+      "200A",
+      "200A"
+     ]
+    ]
+   },
+   {
+    "name": "≥10000 Cycles (25°C±2°C, 0.35C, 90%DOD@65%EOL)",
+    "rows": [
+     [
+      "460*880*245mm / (Excluding Wheels)",
+      "460*880*245mm / (Excluding Wheels)"
+     ],
+     [
+      "122Kg",
+      "123Kg"
+     ],
+     [
+      "62MWh",
+      "70MWh"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "magic-61-71",
+  "title": "Magic 61 / 71 kWh All-in-One Outdoor Cabinet",
+  "cat": "magic-series",
+  "parent": "commercial-industrial-ess",
+  "bullets": [
+   "Safe and reliable with longer cycle life.",
+   "Remote monitoring via self-developed APP.",
+   "Built-in fan for efficient heat dissipation.",
+   "Smart BMS for intelligent battery management.",
+   "High power and high energy density.",
+   "Integrated design for easy installation and higher efficiency.",
+   "Full bracket design for optimal cell performance.",
+   "WiFi remote monitoring for smart and convenient control."
+  ],
+  "sections": [
+   {
+    "name": "Specifications",
+    "rows": [
+     [
+      "Battery Type",
+      "LiFePO4"
+     ],
+     [
+      "Rated Energy(Ah)",
+      "100"
+     ],
+     [
+      "No. Of System Modules / In Series (Optional)",
+      "6 · 7"
+     ],
+     [
+      "System Rated Voltage[V)",
+      "614.4 · 716.8"
+     ],
+     [
+      "System Operating Voltage range(V)",
+      "537.6-891.2 · 627.2-808.4"
+     ],
+     [
+      "System Nominal Energy(kWh)",
+      "61.44 · 71.68"
+     ],
+     [
+      "Dischargeable Energy / Of The System(kwh)",
+      "58.98 · 68.81"
+     ],
+     [
+      "Charger / Discharge / Current(A)",
+      "Rated Current · 50"
+     ],
+     [
+      "Max_ Current",
+      "100"
+     ],
+     [
+      "Overload Current",
+      "115(10sec,25°C)"
+     ],
+     [
+      "Output Voltage (AC Side)",
+      "400V@AC"
+     ],
+     [
+      "PCS Matching Power (KW)",
+      "50"
+     ],
+     [
+      "Status Indicator Light",
+      "Blue: energy storage system start status, green energy storage system / operation status, red: energy storage system fault status"
+     ],
+     [
+      "Communication Protocol",
+      "CAN2.0"
+     ],
+     [
+      "Working Temperature Range(°C)",
+      "-10~50"
+     ],
+     [
+      "Working Humidity Range",
+      "$95% (No condensation)"
+     ],
+     [
+      "Working Altitude",
+      "$2000m"
+     ],
+     [
+      "System Cooling Method",
+      "Fan cooling"
+     ],
+     [
+      "Waterproof Level",
+      "IP66"
+     ],
+     [
+      "Fire Suppression System",
+      "Aerosol"
+     ],
+     [
+      "Weight(kg)",
+      "900 · 1000"
+     ],
+     [
+      "Max. Dimension(mm)",
+      "1066*1274*1675"
+     ],
+     [
+      "Storage Temperature(°C)",
+      "0-35"
+     ],
+     [
+      "Recommended Discharge Depth",
+      "0.9"
+     ],
+     [
+      "Cycle Life",
+      "≥8000 Cycles (25°C+2\"C, 0.5C, 80%DOD@65%EOL]"
+     ],
+     [
+      "System Composition",
+      "BMS System, Firesuppression system,Air cooling unit, Cabinet,PCS system"
+     ],
+     [
+      "Certification",
+      "Cel: UL1973/IEC62619/CE/ROHS/MSDS/UN38.3"
+     ],
+     [
+      "Warranty",
+      "5 Years(Under Warranty Terms)"
+     ],
+     [
+      "Energy Throughput",
+      "134MWh · 158MWh"
+     ],
+     [
+      "ES-BOX36 MAX",
+      "ES-BOX36 MAX+ / ES-BOX36F MAX+"
+     ],
+     [
+      "14.34kWh",
+      "16.08kWh"
+     ],
+     [
+      "280Ah",
+      "314Ah"
+     ],
+     [
+      "200A",
+      "200A"
+     ]
+    ]
+   },
+   {
+    "name": "≥10000 Cycles (25°C±2°C, 0.35C, 90%DOD@65%EOL)",
+    "rows": [
+     [
+      "460*880*245mm / (Excluding Wheels)",
+      "460*880*245mm / (Excluding Wheels)"
+     ],
+     [
+      "122Kg",
+      "123Kg"
+     ],
+     [
+      "62MWh",
+      "70MWh"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "magic-102-122-143",
+  "title": "Magic 102 / 122 / 143 kWh IP55 Outdoor Cabinet",
+  "cat": "magic-series",
+  "parent": "commercial-industrial-ess",
+  "bullets": [
+   "Safe and reliable with long cycle life.",
+   "Self-developed APP for remote monitoring.",
+   "Built-in fan for efficient heat dissipation.",
+   "Smart BMS for intelligent battery management.",
+   "High power and high energy density.",
+   "Integrated design for easy installation and higher efficiency.",
+   "Full bracket design for optimal cell performance.",
+   "WiFi remote monitoring for smart and convenient control."
+  ],
+  "sections": [
+   {
+    "name": "Specifications",
+    "rows": [
+     [
+      "Model",
+      "Magic 102kWh · Magic 122kWh · Magic 143kWh"
+     ]
+    ]
+   },
+   {
+    "name": "Main parameter",
+    "rows": [
+     [
+      "Battery Type",
+      "LiFePO4"
+     ],
+     [
+      "Rated Energy(Ah)",
+      "200 (After parallel connection)"
+     ],
+     [
+      "No. Of System Modules / In Series & Parallel (Optional)",
+      "5S2P · 6S2P · 7S2P"
+     ],
+     [
+      "System Rated Voltage(V)",
+      "512 · 614.4 · 716.8"
+     ],
+     [
+      "System Operating Voltage range(V)",
+      "448-576 · 537.6-691.2 · 627.2-806.4"
+     ],
+     [
+      "System Nominal Energy(kWh)",
+      "102.44(After paraller connection) · 122.88(After parallel connection) · 143.36(After parallel connection)"
+     ],
+     [
+      "Dischargeable Energy / Of The System(kWh)",
+      "98.34(After parallel connection) · 117.96(After papalle"
+     ],
+     [
+      "Charge/ / Discharge / Current(A)",
+      "Rated Current · 50*2"
+     ],
+     [
+      "Max. Current",
+      "100*2"
+     ],
+     [
+      "Overload Current",
+      "115(10sec,25℃) *2"
+     ],
+     [
+      "Output Voltage (AC Side)",
+      "400V@AC"
+     ],
+     [
+      "PCS Matching Power (KW)",
+      "50/100"
+     ],
+     [
+      "Status Indicator Light",
+      "Blue: PCS system operating status, green: energy storage system operating status, / red: energy storage system fault status"
+     ],
+     [
+      "Communication Protocol",
+      "CAN2.0"
+     ],
+     [
+      "Working Temperature Range(°C)",
+      "-10~50"
+     ],
+     [
+      "Working Humidity Range",
+      "≤95% (No condensation)"
+     ],
+     [
+      "Working Altitude",
+      "≤2000m"
+     ],
+     [
+      "System Cooling Method",
+      "Fan cooling"
+     ],
+     [
+      "Waterproof Level",
+      "IP55"
+     ],
+     [
+      "Fire Suppression System",
+      "Hot air aerosol (optional)"
+     ],
+     [
+      "Weight(kg)",
+      "100 · 1250 · 1400"
+     ],
+     [
+      "Max. Dimension(mm)",
+      "2000*1274*1680"
+     ],
+     [
+      "Storage Temperature(°C)",
+      "0-35"
+     ],
+     [
+      "Recommended Discharge Depth",
+      "0.9"
+     ],
+     [
+      "Cycle Life",
+      "≥8000 Cycles (25°C±2°C, 0.5C, 80%DOD@65%EOL)"
+     ],
+     [
+      "System Composition",
+      "BMS system, Fire suppresion system,Air cooling unit, Cabinet, PCS system"
+     ],
+     [
+      "Certification",
+      "Cell: UL1973/IEC62619/CE/ROHS/MSDS/UN38.3"
+     ],
+     [
+      "Warranty",
+      "5 Years(Under Warranty Terms)"
+     ],
+     [
+      "Energy Throughput\"",
+      "224MWh · 269MWh · 313MWh"
+     ],
+     [
+      "ES-BOX36 MAX",
+      "ES-BOX36 MAX+ / ES-BOX36F MAX+"
+     ],
+     [
+      "14.34kWh",
+      "16.08kWh"
+     ],
+     [
+      "280Ah",
+      "314Ah"
+     ],
+     [
+      "200A",
+      "200A"
+     ]
+    ]
+   },
+   {
+    "name": "≥10000 Cycles (25°C±2°C, 0.35C, 90%DOD@65%EOL)",
+    "rows": [
+     [
+      "460*880*245mm / (Excluding Wheels)",
+      "460*880*245mm / (Excluding Wheels)"
+     ],
+     [
+      "122Kg",
+      "123Kg"
+     ],
+     [
+      "62MWh",
+      "70MWh"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "g-cube-61-71",
+  "title": "G-CUBE 61 / 71 kWh Outdoor ESS",
+  "cat": "g-cube-series",
+  "parent": "commercial-industrial-ess",
+  "bullets": [
+   "Supports 6–7 battery modules in series for flexible expansion.",
+   "Compact design for easy transport and installation.",
+   "OTA remote upgrades for simple maintenance.",
+   "Smart master-slave identification without DIP settings.",
+   "WiFi remote monitoring anytime, anywhere.",
+   "Cloud-based 2A active balancing for accurate SOC management.",
+   "Cloud BMS balancing extends battery life to over 10 years.",
+   "Direct cluster connection without a combiner box, reducing costs."
+  ],
+  "sections": [
+   {
+    "name": "Specifications",
+    "rows": [
+     [
+      "Model",
+      "G-CUBE 61 · G-CUBE 71"
+     ]
+    ]
+   },
+   {
+    "name": "Main Parameters",
+    "rows": [
+     [
+      "Battery Type",
+      "LiFePO4"
+     ],
+     [
+      "Rated Capacity(Ah)",
+      "100"
+     ],
+     [
+      "No. of System Module Series / Connections(Optional)",
+      "6 · 7"
+     ],
+     [
+      "System Rated Voltage (V)",
+      "614.4 · 716.8"
+     ],
+     [
+      "System Operating Voltage(V)",
+      "537.6-891.2 · 827.2-806.4"
+     ],
+     [
+      "System Nominal Energy(kWh)",
+      "61.44 · 71.68"
+     ],
+     [
+      "System Discharge Energy (kWh)",
+      "58.98 · 88.81"
+     ],
+     [
+      "Charge / / Discharge / Current(A)",
+      "Rated Current · 50"
+     ],
+     [
+      "Max. Current",
+      "100"
+     ],
+     [
+      "Overload Current",
+      "115(10sec, 25°C)"
+     ],
+     [
+      "Output Terminal / Voltage (AC side)",
+      "400V@AC"
+     ],
+     [
+      "PCS Matching Power (KW)",
+      "50"
+     ],
+     [
+      "Status Indicator Light",
+      "Blue: energy storage system start status, green energy storage system operation status, red: energy storage system fault status"
+     ],
+     [
+      "Communication Protocol",
+      "CAN2.0"
+     ],
+     [
+      "Operating Temperature Range(\"C)",
+      "-10-50"
+     ],
+     [
+      "Operating Humidity Range",
+      "$86% (No Condensation)"
+     ],
+     [
+      "Operating Alitude",
+      "$2000m"
+     ],
+     [
+      "System Cooling Method",
+      "Air Cooling"
+     ],
+     [
+      "Waterproof Rating",
+      "IP55"
+     ],
+     [
+      "Fire Fighting System",
+      "Aerosol (optional in module)"
+     ],
+     [
+      "Net Weight(kg)",
+      "780 · 870"
+     ],
+     [
+      "Maximum Size(mm)",
+      "1020°1080-1785"
+     ],
+     [
+      "Storage Temperature(\"C)",
+      "0-35"
+     ],
+     [
+      "Recommended Depth of / Discharge(DOD)",
+      "0.9"
+     ],
+     [
+      "Cycle Life",
+      "≥8000 Cycles (25°C+2\"C, 0.50, 80%DOD@65%EOL)"
+     ],
+     [
+      "System Composition",
+      "BMS management system, fire protection system, / air-cooled unit, cabinet, PCS system"
+     ],
+     [
+      "Certification",
+      "Cel: UL1973/IEC62619/CE/ROHS/MSDS/UN38.3"
+     ],
+     [
+      "Warranty",
+      "5 Years(Under Warranty Terms)"
+     ],
+     [
+      "Energy Throughput\"",
+      "134MWh · 166MWh"
+     ],
+     [
+      "ES-BOX36 MAX",
+      "ES-BOX36 MAX+ / ES-BOX36F MAX+"
+     ],
+     [
+      "14.34kWh",
+      "16.08kWh"
+     ],
+     [
+      "280Ah",
+      "314Ah"
+     ],
+     [
+      "200A",
+      "200A"
+     ]
+    ]
+   },
+   {
+    "name": "≥10000 Cycles (25°C±2°C, 0.35C, 90%DOD@65%EOL)",
+    "rows": [
+     [
+      "460*880*245mm / (Excluding Wheels)",
+      "460*880*245mm / (Excluding Wheels)"
+     ],
+     [
+      "122Kg",
+      "123Kg"
+     ],
+     [
+      "62MWh",
+      "70MWh"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "g-cube-96",
+  "title": "G-CUBE 96 kWh Outdoor Energy Storage System",
+  "cat": "g-cube-series",
+  "parent": "commercial-industrial-ess",
+  "bullets": [
+   "Supports 4–6 battery modules in series for flexible expansion.",
+   "Compact design for easy transport and installation.",
+   "OTA remote upgrades for simple maintenance.",
+   "Smart master-slave identification without DIP settings.",
+   "WiFi remote monitoring anytime, anywhere.",
+   "Cloud-based 2A active balancing for accurate SOC management.",
+   "Cloud BMS balancing extends battery life to over 10 years.",
+   "Direct cluster connection without a combiner box, reducing installation costs."
+  ],
+  "sections": [
+   {
+    "name": "Specifications",
+    "rows": [
+     [
+      "Battery Type",
+      "LiFePO4"
+     ],
+     [
+      "Module nominal energy[kWh)",
+      "16"
+     ],
+     [
+      "Module minimun energy (kWh)",
+      "15.5"
+     ],
+     [
+      "Module nominal voltage(V)",
+      "76.8"
+     ],
+     [
+      "Rated capacity(Ah]",
+      "206"
+     ],
+     [
+      "No. of System module series / connections(optional)",
+      "4 · 5 · 6"
+     ],
+     [
+      "Rated Voltage of the system(V)",
+      "307.2 · 384 · 480.8"
+     ],
+     [
+      "System working voltage(V)",
+      "268.8-345.6 · 338-432 · 403.2-618.4"
+     ],
+     [
+      "System nominal energy(kWh)",
+      "64 · 80 · 96"
+     ],
+     [
+      "Mini. discharge energy of / the system (kwh)",
+      "60.74 · 75.93 · 91.12"
+     ],
+     [
+      "Charge / / Discharge / current(A)",
+      "Rated Current · 120"
+     ],
+     [
+      "Max.Current",
+      "130"
+     ],
+     [
+      "Overload Current",
+      "150(10sec,25℃)"
+     ],
+     [
+      "Status indicator light",
+      "Blue Battery system starts status; Green: Battery system operation status; Red: Battery system fault status"
+     ],
+     [
+      "Communication Protocol",
+      "CAN2.D"
+     ],
+     [
+      "Working temperature range(℃)",
+      "-10 ~ 50"
+     ],
+     [
+      "Working humidity range",
+      "≤95% (No Condensation)"
+     ],
+     [
+      "Working Alitude",
+      "≤2000m"
+     ],
+     [
+      "System Cooling Method",
+      "Fan cooling"
+     ],
+     [
+      "Waterproof Grade",
+      "IP55"
+     ],
+     [
+      "Installation Place",
+      "Duldoor"
+     ],
+     [
+      "Net Weight(kg)",
+      "1100 · 1225 · 1350"
+     ],
+     [
+      "Dimension(mm)",
+      "1079*1166*2157"
+     ],
+     [
+      "Storage Temperature[\"C)",
+      "0-35"
+     ],
+     [
+      "Recommended Discharge Depth",
+      "0.9"
+     ],
+     [
+      "System Composition",
+      "BMS management system, fire protection system, / air-cooled unit, cabinet, PCS system"
+     ],
+     [
+      "Cycle Life",
+      "28000 Cydes (25\"C±2ºC, 0.5C, 80%DOD@65%EOL)"
+     ],
+     [
+      "Certification",
+      "Cell: UL1973/IEC62619/CE/ROHS/MSDS/UN38.3"
+     ],
+     [
+      "Warranty",
+      "5 Years(Under Warranty Terms)"
+     ],
+     [
+      "Energy Throughput\"",
+      "133MWh · 166MWh · 200MWh"
+     ],
+     [
+      "ES-BOX36 MAX",
+      "ES-BOX36 MAX+ / ES-BOX36F MAX+"
+     ],
+     [
+      "14.34kWh",
+      "16.08kWh"
+     ],
+     [
+      "280Ah",
+      "314Ah"
+     ],
+     [
+      "200A",
+      "200A"
+     ]
+    ]
+   },
+   {
+    "name": "≥10000 Cycles (25°C±2°C, 0.35C, 90%DOD@65%EOL)",
+    "rows": [
+     [
+      "460*880*245mm / (Excluding Wheels)",
+      "460*880*245mm / (Excluding Wheels)"
+     ],
+     [
+      "122Kg",
+      "123Kg"
+     ],
+     [
+      "62MWh",
+      "70MWh"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "g-cube-143",
+  "title": "G-CUBE 143 kWh IP55 Outdoor ESS",
+  "cat": "g-cube-series",
+  "parent": "commercial-industrial-ess",
+  "bullets": [
+   "OTA remote upgrades for easy maintenance.",
+   "Smart master-slave identification without DIP settings.",
+   "Compact design for easy transport and installation.",
+   "WiFi remote monitoring anytime, anywhere.",
+   "Cloud-based 2A balancing for accurate SOC management.",
+   "Real-time cloud balancing for longer battery life.",
+   "Over 10 years of battery life with intelligent BMS.",
+   "Direct cluster connection without a combiner box, reducing installation costs."
+  ],
+  "sections": [
+   {
+    "name": "Specifications",
+    "rows": [
+     [
+      "Battery Type",
+      "LiFePO4"
+     ],
+     [
+      "Rated Capacity[Ah)",
+      "200 (After paraleling)"
+     ],
+     [
+      "No. of System Module Series / Connections(Optional)",
+      "5 · 6 · 7"
+     ],
+     [
+      "System Rated Voltage (V)",
+      "512 · 614.4 · 716.8"
+     ],
+     [
+      "System Operating Voltage(V)",
+      "448-576 · 537.6-691.2 · 627.2-806.4"
+     ],
+     [
+      "System Nominal Energy(kWh)",
+      "102.44(After paralleling) · 122.88(After paralleling) · 143.36(After paralleling)"
+     ],
+     [
+      "System Discharge Energy (kWh)",
+      "98.34(After parallelng) · 117.95(After paralleling) · 137.62(After paralleling)"
+     ],
+     [
+      "Charge / / Discharge / Current(A)",
+      "Rated Current · 50*2"
+     ],
+     [
+      "Max. Current",
+      "100*2"
+     ],
+     [
+      "Overload Current",
+      "115(10sec, 25℃) *2"
+     ],
+     [
+      "Output Terminal Voltage (AC side)",
+      "400V@AC"
+     ],
+     [
+      "PCS Matching Power (KW)",
+      "50/100"
+     ],
+     [
+      "Status Indicator Light",
+      "Blue: energy storage system start status, green: energy storage / system operation status, red: energy storage system fault status"
+     ],
+     [
+      "Communication Protocol",
+      "CAN2.0"
+     ],
+     [
+      "Operating Temperature Range(℃)",
+      "-10~50"
+     ],
+     [
+      "Operating Humidity Range",
+      "≤95% (No Condensation)"
+     ],
+     [
+      "Operating Alitude",
+      "≤2000m"
+     ],
+     [
+      "System Cooling Method",
+      "Air Cooling"
+     ],
+     [
+      "Waterproof Rating",
+      "IP55"
+     ],
+     [
+      "Fire Fighting System",
+      "Hot aerosol(optional in module)"
+     ],
+     [
+      "Net Weight(kg)",
+      "1410 · 1585 · 1765"
+     ],
+     [
+      "Max_ Size(mm)",
+      "1665*1090*1782"
+     ],
+     [
+      "Storage Temperature(C)",
+      "0-35"
+     ],
+     [
+      "Recommended Depth of / Discharge(DOD)",
+      "0.9"
+     ],
+     [
+      "Cycle Life",
+      "≥8000 Cycles (25°C±2°C, 0.5C, 80%DOD@@85%EOL]"
+     ],
+     [
+      "System Composition",
+      "BMS management system, fire protection system, air-cooled unit, cabinet, PCS system"
+     ],
+     [
+      "Certification",
+      "Cell: UL19734EC62619/CE/ROHS/MSDS/UN38.3"
+     ],
+     [
+      "Warranty",
+      "5 Years( Under Warranty Terms)"
+     ],
+     [
+      "Energy Throughput",
+      "224MWh · 270MWh · 313MWh"
+     ],
+     [
+      "ES-BOX36 MAX",
+      "ES-BOX36 MAX+ / ES-BOX36F MAX+"
+     ],
+     [
+      "14.34kWh",
+      "16.08kWh"
+     ],
+     [
+      "280Ah",
+      "314Ah"
+     ],
+     [
+      "200A",
+      "200A"
+     ]
+    ]
+   },
+   {
+    "name": "≥10000 Cycles (25°C±2°C, 0.35C, 90%DOD@65%EOL)",
+    "rows": [
+     [
+      "460*880*245mm / (Excluding Wheels)",
+      "460*880*245mm / (Excluding Wheels)"
+     ],
+     [
+      "122Kg",
+      "123Kg"
+     ],
+     [
+      "62MWh",
+      "70MWh"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "g-cube-160b",
+  "title": "G-CUBE 160B kWh Outdoor Energy Storage System",
+  "cat": "g-cube-series",
+  "parent": "commercial-industrial-ess",
+  "bullets": [
+   "OTA remote upgrades for easy maintenance.",
+   "Smart master-slave identification without DIP settings.",
+   "Compact design for easy transport and installation.",
+   "WiFi remote monitoring anytime, anywhere.",
+   "Cloud-based 2A balancing for accurate SOC management.",
+   "Real-time cloud balancing for longer battery life.",
+   "Over 10 years of battery life with intelligent BMS.",
+   "Direct cluster connection without a combiner box, reducing installation costs."
+  ],
+  "sections": [
+   {
+    "name": "Specifications",
+    "rows": [
+     [
+      "Battery Type",
+      "LiFePO4"
+     ],
+     [
+      "Module Nominal Energy(kWh)",
+      "16.08"
+     ],
+     [
+      "Module Nominal Voltage(V)",
+      "51.2"
+     ],
+     [
+      "Rated Capacity(Ah)",
+      "314"
+     ],
+     [
+      "No. of System Module Series / Connections",
+      "10"
+     ],
+     [
+      "System Rated Voltage (V)",
+      "512"
+     ],
+     [
+      "System Operating Voltage[V)",
+      "448-578"
+     ],
+     [
+      "System Nominal Energy(kWh)",
+      "160.8"
+     ],
+     [
+      "System Discharge Energy (kWh)",
+      "137.63"
+     ],
+     [
+      "Charge / / Discharge / Current[A]",
+      "Rated Current · 157A"
+     ],
+     [
+      "Max. Current",
+      "165A"
+     ],
+     [
+      "Overload Current",
+      "170A(10 sec, 25℃)"
+     ],
+     [
+      "Status Indicator Light",
+      "Blue: PCS system working status, green: battery system / running status, red: battery system fault status"
+     ],
+     [
+      "Communication Protocol",
+      "CAN2.0"
+     ],
+     [
+      "Operating Temperature Range(℃)",
+      "-10-55"
+     ],
+     [
+      "Operating Humidity Range",
+      "≤95% (No Condensation)"
+     ],
+     [
+      "Operating Alitude",
+      "≤2000m"
+     ],
+     [
+      "System Cooling Method",
+      "Air Cooling"
+     ],
+     [
+      "Waterproof Rating",
+      "IP55"
+     ],
+     [
+      "Fire Fighting System",
+      "Hot aerosol(optional in module)"
+     ],
+     [
+      "Net Weight(kg)",
+      "1615"
+     ],
+     [
+      "Max_ Size(mm)",
+      "1395*1080*1850"
+     ],
+     [
+      "Storage Temperature(℃)",
+      "0-35"
+     ],
+     [
+      "Recommended Depth of / Discharge(DOD)",
+      "0.9"
+     ],
+     [
+      "Cycle Life",
+      "≥10000 Cydes (25°C±2℃, 0.350, 80%DOD@95%EOL]"
+     ],
+     [
+      "System Composition",
+      "BMS management system, fire protection system, / air-cooled unit, cabinet, PCS system"
+     ],
+     [
+      "Certification",
+      "Cel:UL1973/IEC62619/UL9540A/TUVICE/MSDS/UN38.3"
+     ],
+     [
+      "Warranty",
+      "5 Years(Under Warranty Terms)"
+     ],
+     [
+      "Energy Throughput",
+      "352MWh"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "g-cube-160",
+  "title": "G-CUBE 160 kWh Outdoor Energy Storage System",
+  "cat": "g-cube-series",
+  "parent": "commercial-industrial-ess",
+  "bullets": [
+   "Supports 7–10 battery modules in series for flexible expansion..",
+   "OTA remote upgrades for easy maintenance.",
+   "Smart master-slave identification without DIP settings.",
+   "Compact design for easy transport and installation.",
+   "WiFi remote monitoring anytime, anywhere.",
+   "Cloud-based 2A balancing for accurate SOC management.",
+   "Real-time cloud balancing extends battery life to over 10 years.",
+   "Direct cluster connection without a combiner box, reducing installation costs."
+  ],
+  "sections": [
+   {
+    "name": "Specifications",
+    "rows": [
+     [
+      "Nominal Voltage",
+      "51.2V · Battery Type · LiFePO4"
+     ],
+     [
+      "Nominal Capacity",
+      "100Ah · 340Ah · Module Nominal Energy(kWh) · 16"
+     ],
+     [
+      "Cell Type",
+      "LFP · Module Mini. Energy (kWh) · 15.5"
+     ],
+     [
+      "Standard Charge Voltage",
+      "56.8V · Module Nominal Voltage[V) · 76.8"
+     ],
+     [
+      "Max. Discharge Current",
+      "100A · 200A · Rated Capacity(Ah) · 206"
+     ],
+     [
+      "Discharge Cut-off Voltage",
+      "44.8V · No. Of System Module Series / Connections(Optional) · 7 · 8 · 9 · 10"
+     ],
+     [
+      "Parallel Function",
+      "Parallels: Max. 16, Max.33, Max.64 (Optional) · Rated Voltage Of The System(V) · 537.6 · 814.4 · 691.2 · 768"
+     ],
+     [
+      "Communication Interface",
+      "USB, RS485, CAN · System Working Voltage(V) · 470.4-604.8 · 537.6-691.2 · 604.8-777.6 · 872-864"
+     ],
+     [
+      "Cycle Life",
+      "28000 Cycles (25°C±2'C, 0.5C, 90%DOD@65%EOL) · ≥10000 Cycles (25°C±2'C, 0.35C, 90%DOD@65%EOL) · System Nominal Energy(kWh) · 112 · 128 · 144 · 160"
+     ],
+     [
+      "Charge Temperature Range",
+      "0-55℃ · Mini. Discharge Energy Of / The System (kwh) · 108.31 · 121.49 · 138.68 · 151.87"
+     ],
+     [
+      "Discharge Temperature Range",
+      "-20-55°C · Charge / / Discharge / Current(A) · Rated Current · 120"
+     ],
+     [
+      "Certification",
+      "Pack: CEI 0-21/CE/IEC 62619/UL1973 by Intertek/MSDS/UN38.3 / Cell: UL 1642/IEC 62619/CE/EMC/ROHS/MSDS/UN38.3 · Max. Current · 130"
+     ],
+     [
+      "Dimension",
+      "620*480*180mm(Excluding bracket) · 1000*680*300mm(Caster) · Overload Current · 150"
+     ],
+     [
+      "Net Weight",
+      "=52Kg · =145Kg · Status Indicator Light · Blue:Battery system starts status; Green: Battery system / operation status; Red: Battery system fault status"
+     ],
+     [
+      "Installation Method",
+      "Wall Mounted · Floor Standing · Communication Protocol · CAN2.0"
+     ],
+     [
+      "Display",
+      "Circular touch screen/3.2\" LCD Touch Screen · 4.3\" LCD Touch Screen · Working Temperature range(℃) · -10~50"
+     ],
+     [
+      "Warranty",
+      "10 years warranty, 15 years design life · Working humidity range · ≤95%(No Condensation)"
+     ],
+     [
+      "Energy Throughput™",
+      "22MWh · 76MWh · Working Alitude · ≤2000m"
+     ],
+     [
+      "Optional",
+      "WiFi (Built-in WiFi antenna), Bluetooth, Fire Suppression module, Circuit Breaker (Built-in WiFi antenna) · System Cooling Method · Fan cooling"
+     ],
+     [
+      "Waterproof Grade",
+      "IP55"
+     ],
+     [
+      "Installation Place",
+      "Indoor/Outdoor"
+     ],
+     [
+      "Net Weight(kg)",
+      "1675 · 1800 · 1925 · 2060"
+     ],
+     [
+      "Dimension(mm)",
+      "1789*1169*1792"
+     ],
+     [
+      "Storage Temperature(℃)",
+      "0-35"
+     ],
+     [
+      "Recommended Discharge Depth",
+      "0.9"
+     ],
+     [
+      "Fire Protection System",
+      "Aerosol (optional in module)"
+     ],
+     [
+      "System Composition",
+      "BMS management system, fire protection system, / air-cooled unit, cabinet, PCS system"
+     ],
+     [
+      "Cycle Life",
+      "28000 Cycles (25℃±2℃, 0.5C, 80%DOD@65%EOL)"
+     ],
+     [
+      "Certification",
+      "Cel: UL1973/IEC62619/CE/ROHS/MSDS/UN38.3"
+     ],
+     [
+      "Warranty",
+      "5 Years(Under Warranty Terms)"
+     ],
+     [
+      "Energy Throughput\"\"",
+      "245MWh · 280MWh · 315MWh · 350MWh"
+     ],
+     [
+      "Product Model",
+      "ES-BOX36 · ES-BOX36 PLUS · ES-BOX36 MAX · ES-BOX36 MAX+ / ES-BOX36F MAX+"
+     ],
+     [
+      "Nominal Energy",
+      "5.12kWh · 10.24kWh · 14.34kWh · 16.08kWh"
+     ],
+     [
+      "Nominal Voltage",
+      "51.2V"
+     ],
+     [
+      "Nominal Capacity",
+      "100Ah · 200Ah · 280Ah · 314Ah"
+     ],
+     [
+      "Cell Type",
+      "LFP"
+     ],
+     [
+      "Standard Charge Voltage",
+      "56.8V"
+     ],
+     [
+      "Max.Charge/Discharge Current",
+      "100A · 150A · 200A · 200A"
+     ],
+     [
+      "Discharge Cut-Off Voltage",
+      "44.8V"
+     ],
+     [
+      "Parallel Function",
+      "Parallels: Max.16, Max.33, Max.64 (Optional)"
+     ],
+     [
+      "Communication Interface",
+      "RS485/CAN/USB"
+     ],
+     [
+      "Cycle Life",
+      ">8000 Cycles(25°C±2°C, 0.5C, 90%DOD@65%EOL) · ≥10000 Cycles (25°C±2°C, 0.35C, 90%DOD@65%EOL)"
+     ],
+     [
+      "Charge Temperature Range",
+      "0~55°C"
+     ],
+     [
+      "Discharge Temperature Range",
+      "-20-55℃"
+     ],
+     [
+      "Certification",
+      "Pack: CEI 0-21/CE/IEC 62619/UL1973 by Intertek/MSDS/UN38.3 / Cell: UL1642/IEC 62619/CE/EMC/ROHS/MSDS/UN38.3"
+     ],
+     [
+      "Dimension",
+      "450*620*160mm / (Excluding Wal-Mounted Brackets) · 480*650*245mm / (Excluding Wall-Mounted Brackets) · 460*880*245mm / (Excluding Wheels) · 460*880*245mm / (Excluding Wheels)"
+     ],
+     [
+      "Net Weight",
+      "51Kg · 92Kg · 122Kg · 123Kg"
+     ],
+     [
+      "Installation Method",
+      "Wall-Mounted/Floor Standing"
+     ],
+     [
+      "Warranty",
+      "10 years warranty. 15 years design life"
+     ],
+     [
+      "Energy Throughput\"",
+      "22MWh · 44MWh · 62MWh · 70MWh"
+     ],
+     [
+      "Display",
+      "RGB LED Light/3.2\" LCD Touch Screen · RGB LED Light/4.3\" LCD Touch Screen"
+     ],
+     [
+      "Protection Grade",
+      "IP20 · IP20/IP65(Optional)"
+     ],
+     [
+      "Optional",
+      "Circuit Breaker,WIFI Remote Monitoring"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "g-cube-241",
+  "title": "G-CUBE 241 kWh Outdoor Energy Storage System",
+  "cat": "g-cube-series",
+  "parent": "commercial-industrial-ess",
+  "bullets": [
+   "Advanced BMS with accurate SOC calculation.",
+   "Cloud-based 2A real-time battery balancing.",
+   "Remote balancing for longer battery cycle life.",
+   "Battery life of over 10 years.",
+   "Direct cluster connection without a combiner box.",
+   "Reduced installation and equipment costs.",
+   "Compact design for easy transport and installation.",
+   "WiFi remote monitoring anytime, anywhere."
+  ],
+  "sections": [
+   {
+    "name": "Specifications",
+    "rows": [
+     [
+      "Battery Type",
+      "LiFePO4"
+     ],
+     [
+      "Rated Capacity(Ah)",
+      "314"
+     ],
+     [
+      "No. Of System Module In Series",
+      "15"
+     ],
+     [
+      "System Rated Voltage (V)",
+      "768"
+     ],
+     [
+      "System Operating Voltage (V)",
+      "672-864"
+     ],
+     [
+      "System Nominal Energy (kWh)",
+      "241.15"
+     ],
+     [
+      "System Dischargeable Energy (kWh)",
+      "231.5"
+     ],
+     [
+      "Charge/ / Discharge / Current(A)",
+      "Rated Current · 157"
+     ],
+     [
+      "Max_ Current",
+      "165"
+     ],
+     [
+      "Overload Current",
+      "170(10sec,25°C)"
+     ],
+     [
+      "Output Voltage (AC Side)",
+      "380V, 3W+N+PE"
+     ],
+     [
+      "Status Indicator Light",
+      "Blue: energy storage system start status, green: energy storage system / operation status,red: energy storage system fault status"
+     ],
+     [
+      "Communication Protocol",
+      "CAN2.0"
+     ],
+     [
+      "Working Temperature Range (℃)",
+      "-10-55"
+     ],
+     [
+      "Working Humidity Range",
+      "≤95% (No condensation)"
+     ],
+     [
+      "Working Altitude",
+      "≤54000m"
+     ],
+     [
+      "System Cooling Method",
+      "Fan cooling"
+     ],
+     [
+      "Waterproof Rating",
+      "IP55"
+     ],
+     [
+      "Fire Suppression System",
+      "Aerosol"
+     ],
+     [
+      "Weigt(kg)",
+      "2325kg"
+     ],
+     [
+      "Max_ Dimension(mm)",
+      "1080*1030*2500"
+     ],
+     [
+      "Storage Temperature(℃)",
+      "0-35"
+     ],
+     [
+      "Recommended Discharge Depth",
+      "0.9"
+     ],
+     [
+      "Cycle Life",
+      "28000 Cydes (25°C±2℃, 0.50, 80%DOD@65%EOL]"
+     ],
+     [
+      "System Composition",
+      "BMS, Fire Suppression System, Air Cooling Unit, Cabinet, PCS"
+     ],
+     [
+      "Certification",
+      "Cel: UL1973/IEC62619/CE/ROHS/MSDS/UN38.3"
+     ],
+     [
+      "Warranty",
+      "5 Years（Under Warranty Terms)"
+     ],
+     [
+      "Energy Throughput",
+      "528MWh"
+     ],
+     [
+      "ES-BOX36 MAX",
+      "ES-BOX36 MAX+ / ES-BOX36F MAX+"
+     ],
+     [
+      "14.34kWh",
+      "16.08kWh"
+     ],
+     [
+      "280Ah",
+      "314Ah"
+     ],
+     [
+      "200A",
+      "200A"
+     ]
+    ]
+   },
+   {
+    "name": "≥10000 Cycles (25°C±2°C, 0.35C, 90%DOD@65%EOL)",
+    "rows": [
+     [
+      "460*880*245mm / (Excluding Wheels)",
+      "460*880*245mm / (Excluding Wheels)"
+     ],
+     [
+      "122Kg",
+      "123Kg"
+     ],
+     [
+      "62MWh",
+      "70MWh"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "titan-container",
+  "title": "Titan Containerized BESS 723 kWh - 2.41 MWh",
+  "cat": "containerized-bess",
+  "parent": "utility-scale-bess",
+  "bullets": [
+   "Up to 97.6% high system efficiency.",
+   "Advanced cooling system for efficient operation.",
+   "Extended battery cycle life for long-term reliability.",
+   "Supports peak shifting, peak shaving and frequency regulation.",
+   "Highly integrated ESS for easy transportation and O&M.",
+   "Pre-assembled design for faster on-site installation.",
+   "No battery module handling required on site.",
+   "Multi-level protection for safe and reliable operation."
+  ],
+  "sections": [
+   {
+    "name": "Specifications",
+    "rows": [
+     [
+      "Product Model",
+      "Titan-723kWh+250kw · Product Model · Titan-964kWh+500kW · Titan-1.205MWh+500kW"
+     ],
+     [
+      "Battery Side Parameters",
+      "Battery Side Parameters"
+     ],
+     [
+      "Parameters",
+      "3.2V314Ah LFP · Cell Parameters · 3.2V314Ah LFP"
+     ],
+     [
+      "Pack Parameters",
+      "1P165 · Pack Parameters · 1P16S"
+     ],
+     [
+      "Battery Cluster",
+      "1P16S*15 · Battery Cluster · 1P16S*15"
+     ],
+     [
+      "System Combination",
+      "3*1P2408 · Rated Voltage · 768V"
+     ],
+     [
+      "Rated Energy",
+      "723kWh · Operating Voltage Range · 720-850V"
+     ],
+     [
+      "Rated Voltage",
+      "768V · System Combination · 4*1P240S · 5*1P240S"
+     ],
+     [
+      "Operating Voltage Range",
+      "720-850V · Rated Energy · 964kWh · 1.205kWh"
+     ],
+     [
+      "Rated Multiplier",
+      "0.5P · Rated Multiplier · 0.6P · 0.5P"
+     ],
+     [
+      "Photovoltaic Side Parameters",
+      "Photovoltaic Side Parameters"
+     ],
+     [
+      "Rated Voltage",
+      "600V · MPPT module rated power · 50kW/single"
+     ],
+     [
+      "Rated Current",
+      "100A · Max. PV power · 600/660/720V"
+     ],
+     [
+      "MPPT Max. Range",
+      "420-850V · Number of MPPT modules · 10/11"
+     ],
+     [
+      "MPPT Rated Power",
+      "50KW · MPPT voltage range · 250-600V"
+     ],
+     [
+      "Number Of MPPT Channels",
+      "5 · MPPT full load voltage range · 450-600V"
+     ],
+     [
+      "AC Side Parameters",
+      "AC Side Parameters"
+     ],
+     [
+      "Output Power",
+      "250KW · Output Power · 500KW"
+     ],
+     [
+      "Rated Voltage",
+      "380/400V 3W+N+PE · Rated Voltage · 380/400V 3W+N+PE"
+     ],
+     [
+      "Rated Frequency",
+      "50HZ · Rated Frequency · 50HZ"
+     ],
+     [
+      "Response Time",
+      "20ms · Response Time · 20ms"
+     ],
+     [
+      "Conversion Efficiency",
+      "0.98 · Conversion Efficiency · 0.98"
+     ],
+     [
+      "System Parameters",
+      "Operating Temperature Range · Charge: 0~55°C / Discharge: - 10~60℃"
+     ],
+     [
+      "Operating Temperature Range",
+      "Charge: 0-55°C / Discharge: - 10-60℃ · Operating Humidity Range · 5-85%RH"
+     ],
+     [
+      "Operating Humidity Range",
+      "5-85%RH · Depth Of Discharge · 80-90%"
+     ],
+     [
+      "Depth Of Discharge",
+      "80-90% · Cycle Life · ≥10000 Cycles (25°C±2℃, 0.35C, 80%DOD@65%EOL)"
+     ],
+     [
+      "Cycle Life",
+      "≥10000 Cydes (25°C±2°C, 0.35C, 80%DOD@65%EOL） · Protection Grade · IP55"
+     ],
+     [
+      "Protection Grade",
+      "IP55 · System Cycle Efficiency · ≥90%@AC"
+     ],
+     [
+      "System Cycle Efficiency",
+      "290% @AC · Cooling Method · Air cooling"
+     ],
+     [
+      "Cooling Method",
+      "Air cooling · Fire Protection System · Perfluorohexanone"
+     ],
+     [
+      "Fire Protection System",
+      "Perfluorohexanone · Dimension · 20FT"
+     ],
+     [
+      "Dimension",
+      "20FT · Certification · Cell:UL1973/IEC62619/UL9540A/TUV/CE"
+     ],
+     [
+      "Certification",
+      "Cell: UL1973/EC62619/UL9540A/TUV/CE · DC Battery Combiner Cabinets"
+     ],
+     [
+      "800A DC Battery Combiner Cabinets",
+      "Product Model · 1500V DC 800A * 1 PCS"
+     ],
+     [
+      "Product Model",
+      "1500V DC 800A * 1 PCS · Max. Working Voltage · 1500V"
+     ],
+     [
+      "Max. Working Voltage",
+      "1500V · Max. Charge/Discharge Current · 800A"
+     ],
+     [
+      "Max_ Charge/Discharge Current",
+      "BOOVA · PCS Power · 250KW-500kW"
+     ],
+     [
+      "PCS Power",
+      "250KW-500kW · Communication Mode · TCP/485/CAN/232"
+     ],
+     [
+      "Communication Mode",
+      "TCP/485/CAN/232 · Operating Temperature Range · Charge: 0~55°C / Discharge: - 10~60℃"
+     ],
+     [
+      "Operating Temperature Range",
+      "Charge: 0-55°C / Discharge: - 10-60°C · Operating Humidity Range · 5-85%RH"
+     ],
+     [
+      "Operating Humidity Range",
+      "5-85%RH · Protection Grade · IP20"
+     ],
+     [
+      "Protection Grade",
+      "IP20 · Fire Protection System · Aerosol"
+     ],
+     [
+      "Fire Protection System",
+      "Aerosol · Dimensions · 600*623*1755mm"
+     ],
+     [
+      "Dimension",
+      "800*623*1755mm"
+     ],
+     [
+      "Product Model",
+      "Titan-2.41MWh+1MW"
+     ]
+    ]
+   },
+   {
+    "name": "Battery Side Parameters",
+    "rows": [
+     [
+      "Cell Parameters",
+      "3.2V314Ah LFP"
+     ],
+     [
+      "Pack Parameters",
+      "1P16S"
+     ],
+     [
+      "Battery Cluster",
+      "1P16S*15"
+     ],
+     [
+      "System Combination",
+      "2*5*1P240S"
+     ],
+     [
+      "Rated Energy",
+      "2.41MWh"
+     ],
+     [
+      "Rated Voltage",
+      "768V"
+     ],
+     [
+      "Operating Voltage Range",
+      "720-850V"
+     ],
+     [
+      "Rated Multiplier",
+      "0.6P"
+     ]
+    ]
+   },
+   {
+    "name": "Photovoltaic Side Parameters",
+    "rows": [
+     [
+      "Rated Voltage",
+      "600V"
+     ],
+     [
+      "Rated Current",
+      "100A"
+     ],
+     [
+      "MPPT Max. Range",
+      "420-850V"
+     ],
+     [
+      "MPPT Rated Power",
+      "50kW"
+     ],
+     [
+      "Number Of MPPT Channels",
+      "2*10"
+     ]
+    ]
+   },
+   {
+    "name": "AC Side Parameters",
+    "rows": [
+     [
+      "Output Power",
+      "1MW"
+     ],
+     [
+      "Rated Voltage",
+      "380/400V 3W+N+PE"
+     ],
+     [
+      "Rated Frequency",
+      "50HZ"
+     ],
+     [
+      "Response Time",
+      "20ms"
+     ],
+     [
+      "Operating Temperature Range",
+      "Charge: 0~55°C / Discharge: - 10~60℃"
+     ],
+     [
+      "Operating Humidity Range",
+      "5-85%RH"
+     ],
+     [
+      "Depth Of Discharge",
+      "80-90%"
+     ],
+     [
+      "Cycle Life",
+      "≥10000 Cycles (25°C±2°C, 0.35C, 80%DOD@65%EOL)"
+     ],
+     [
+      "Protection Grade",
+      "IP55"
+     ],
+     [
+      "System Cycle Efficiency",
+      "≥90%@AC"
+     ],
+     [
+      "Cooling Method",
+      "Air cooling"
+     ],
+     [
+      "Fire Protection System",
+      "Perfluorohexanone"
+     ],
+     [
+      "Dimension",
+      "40FT"
+     ],
+     [
+      "Certification",
+      "Cell:UL1973/IEC62619/UL9540A/TUV/CE"
+     ]
+    ]
+   },
+   {
+    "name": "1600A DC Battery Combiner Cabinets",
+    "rows": [
+     [
+      "Product Model",
+      "1500V DC 1600A *1 PCS"
+     ],
+     [
+      "Max. Working Voltage",
+      "1500V"
+     ],
+     [
+      "Max. Charge/Discharge Current",
+      "1600A"
+     ],
+     [
+      "PCS Power",
+      "500kW-1000kW"
+     ],
+     [
+      "Communication Mode",
+      "TCP/485/CAN/232"
+     ],
+     [
+      "Operating Temperature Range",
+      "Charging: 0~55℃ / Discharging: - 10~60℃"
+     ],
+     [
+      "Operating Humidity Range",
+      "5-85%RH"
+     ],
+     [
+      "Protection Grade",
+      "IP20"
+     ],
+     [
+      "Fire Protection System",
+      "Aerosol"
+     ],
+     [
+      "Dimension",
+      "600*323*2084mm"
+     ]
+    ]
+   }
+  ]
+ }
+]
